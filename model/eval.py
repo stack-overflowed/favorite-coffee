@@ -14,7 +14,7 @@ y = coffee_data["type_of_coffee"]
 X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, random_state=42)
 
-# Load your trained model
+# Load trained model
 model = joblib.load("model/coffee_model.joblib")
 
 # Predict on the test set
