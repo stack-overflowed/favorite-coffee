@@ -1,0 +1,5001 @@
+gender,age,type_of_coffee
+1,19,Flat White
+1,34,Cappuccino
+1,20,Espresso
+1,36,Macchiato
+0,29,Mocha
+1,30,Latte
+1,34,Cappuccino
+0,44,Macchiato
+0,38,Macchiato
+0,55,Mocha
+0,59,Espresso
+0,32,Latte
+0,31,Latte
+1,57,Cappuccino
+1,24,Flat White
+1,43,Americano
+0,38,Mocha
+0,21,Americano
+1,48,Mocha
+0,45,Cappuccino
+0,52,Mocha
+1,28,Macchiato
+0,45,Macchiato
+0,44,Latte
+1,57,Espresso
+0,36,Espresso
+0,50,Americano
+0,61,Mocha
+1,29,Latte
+1,60,Americano
+1,56,Cappuccino
+0,60,Flat White
+1,48,Latte
+0,48,Flat White
+0,28,Espresso
+0,39,Americano
+1,41,Espresso
+0,32,Flat White
+1,44,Cappuccino
+1,38,Americano
+1,24,Espresso
+1,62,Latte
+1,34,Espresso
+0,27,Cappuccino
+0,63,Flat White
+1,51,Espresso
+0,61,Latte
+1,26,Cappuccino
+0,54,Flat White
+0,26,Americano
+1,52,Americano
+1,64,Espresso
+0,36,Latte
+0,52,Espresso
+1,27,Espresso
+1,23,Macchiato
+1,35,Latte
+1,62,Latte
+0,23,Macchiato
+0,18,Latte
+0,53,Americano
+0,42,Espresso
+1,65,Mocha
+1,32,Cappuccino
+1,35,Latte
+0,29,Cappuccino
+1,25,Flat White
+0,27,Cappuccino
+1,54,Cappuccino
+1,16,Americano
+1,20,Macchiato
+0,17,Espresso
+0,29,Espresso
+1,40,Cappuccino
+0,27,Latte
+1,50,Americano
+1,21,Flat White
+1,27,Cappuccino
+0,47,Flat White
+1,30,Latte
+0,17,Macchiato
+0,18,Cappuccino
+0,46,Espresso
+1,53,Flat White
+1,37,Flat White
+1,57,Espresso
+1,48,Macchiato
+0,16,Espresso
+0,59,Flat White
+1,50,Americano
+0,23,Americano
+0,57,Latte
+0,57,Cappuccino
+1,51,Latte
+1,61,Americano
+1,42,Espresso
+0,51,Macchiato
+1,55,Americano
+1,44,Mocha
+0,31,Flat White
+0,53,Latte
+1,27,Flat White
+1,61,Americano
+1,17,Americano
+0,19,Macchiato
+0,57,Latte
+1,65,Americano
+0,37,Espresso
+1,64,Flat White
+0,42,Espresso
+1,26,Flat White
+1,41,Flat White
+1,60,Espresso
+0,25,Espresso
+1,58,Flat White
+0,16,Latte
+0,39,Americano
+0,48,Latte
+1,17,Cappuccino
+0,41,Macchiato
+0,46,Macchiato
+1,55,Flat White
+1,56,Espresso
+1,27,Macchiato
+1,51,Flat White
+1,59,Espresso
+1,18,Latte
+1,39,Macchiato
+0,39,Espresso
+0,32,Cappuccino
+0,64,Flat White
+0,65,Macchiato
+0,52,Cappuccino
+1,29,Mocha
+0,63,Flat White
+1,23,Macchiato
+0,35,Americano
+0,43,Flat White
+0,49,Americano
+0,50,Espresso
+0,58,Macchiato
+0,42,Cappuccino
+1,19,Espresso
+0,40,Macchiato
+0,55,Latte
+1,63,Cappuccino
+1,22,Mocha
+1,59,Mocha
+1,36,Macchiato
+0,56,Espresso
+1,59,Latte
+0,57,Cappuccino
+1,53,Espresso
+1,39,Espresso
+0,51,Espresso
+1,22,Cappuccino
+0,45,Cappuccino
+0,62,Flat White
+1,56,Macchiato
+0,16,Americano
+1,39,Cappuccino
+0,61,Cappuccino
+0,36,Mocha
+0,64,Flat White
+1,58,Espresso
+1,22,Latte
+0,57,Espresso
+1,38,Macchiato
+1,52,Cappuccino
+1,23,Americano
+1,59,Macchiato
+0,48,Macchiato
+1,27,Latte
+1,16,Latte
+1,19,Macchiato
+0,43,Cappuccino
+1,18,Latte
+0,23,Cappuccino
+1,18,Flat White
+0,46,Cappuccino
+0,54,Flat White
+1,55,Mocha
+0,46,Latte
+0,40,Flat White
+0,17,Macchiato
+1,27,Americano
+0,32,Macchiato
+0,57,Flat White
+1,59,Latte
+0,42,Cappuccino
+1,48,Americano
+0,27,Flat White
+0,37,Latte
+1,25,Cappuccino
+0,55,Macchiato
+0,55,Mocha
+1,54,Macchiato
+1,47,Espresso
+1,44,Americano
+0,53,Latte
+1,25,Espresso
+1,63,Macchiato
+0,21,Flat White
+1,16,Americano
+1,58,Mocha
+0,19,Latte
+1,58,Americano
+1,21,Espresso
+0,54,Macchiato
+0,59,Macchiato
+1,38,Espresso
+0,19,Macchiato
+0,44,Latte
+1,54,Macchiato
+1,61,Cappuccino
+0,61,Americano
+1,38,Espresso
+1,41,Cappuccino
+1,25,Espresso
+0,19,Macchiato
+1,61,Macchiato
+0,62,Macchiato
+1,53,Macchiato
+1,36,Mocha
+1,48,Macchiato
+1,43,Flat White
+0,58,Flat White
+1,19,Flat White
+0,30,Latte
+0,52,Americano
+1,46,Mocha
+1,30,Espresso
+1,31,Espresso
+0,27,Espresso
+0,54,Cappuccino
+1,54,Mocha
+1,49,Espresso
+1,26,Americano
+0,33,Espresso
+1,31,Americano
+0,46,Cappuccino
+0,47,Macchiato
+0,27,Flat White
+1,48,Flat White
+0,62,Latte
+1,31,Mocha
+0,47,Americano
+1,28,Cappuccino
+0,57,Americano
+0,26,Flat White
+0,52,Flat White
+0,38,Latte
+1,65,Americano
+1,31,Latte
+0,44,Americano
+0,61,Mocha
+0,44,Flat White
+0,61,Mocha
+0,35,Mocha
+1,27,Latte
+1,54,Flat White
+0,19,Cappuccino
+0,41,Americano
+1,38,Flat White
+0,44,Cappuccino
+0,19,Cappuccino
+0,20,Cappuccino
+0,41,Cappuccino
+1,16,Flat White
+1,21,Latte
+0,22,Mocha
+0,34,Americano
+0,23,Espresso
+1,42,Espresso
+1,61,Flat White
+1,41,Americano
+0,58,Latte
+0,65,Latte
+1,33,Flat White
+1,49,Latte
+1,26,Mocha
+1,61,Latte
+1,26,Americano
+1,49,Mocha
+0,32,Flat White
+0,28,Cappuccino
+1,48,Americano
+1,17,Latte
+1,58,Flat White
+1,33,Cappuccino
+0,53,Macchiato
+0,65,Latte
+0,36,Mocha
+0,21,Flat White
+1,23,Flat White
+0,41,Americano
+0,40,Macchiato
+1,22,Americano
+1,46,Macchiato
+1,53,Latte
+0,43,Latte
+1,48,Latte
+0,15,Latte
+0,27,Espresso
+1,20,Mocha
+0,15,Cappuccino
+0,55,Mocha
+0,21,Flat White
+1,25,Flat White
+0,41,Flat White
+1,15,Macchiato
+0,53,Espresso
+1,34,Espresso
+1,40,Latte
+0,48,Americano
+0,62,Flat White
+0,24,Mocha
+1,55,Mocha
+0,25,Flat White
+0,55,Latte
+0,29,Macchiato
+1,50,Espresso
+1,15,Cappuccino
+0,51,Mocha
+0,49,Macchiato
+0,52,Mocha
+1,45,Latte
+1,65,Espresso
+0,41,Americano
+0,27,Mocha
+0,27,Latte
+0,17,Macchiato
+0,64,Cappuccino
+0,37,Americano
+1,49,Flat White
+1,41,Espresso
+1,64,Americano
+0,34,Cappuccino
+0,42,Mocha
+0,17,Macchiato
+0,22,Espresso
+0,16,Latte
+0,34,Flat White
+1,51,Espresso
+0,45,Latte
+1,21,Mocha
+1,54,Mocha
+0,44,Flat White
+0,48,Macchiato
+0,51,Cappuccino
+0,42,Americano
+1,61,Espresso
+1,21,Americano
+1,26,Flat White
+1,40,Mocha
+1,38,Macchiato
+1,39,Latte
+1,34,Flat White
+1,46,Americano
+1,34,Americano
+1,62,Espresso
+0,15,Latte
+0,26,Mocha
+0,35,Macchiato
+1,59,Mocha
+1,56,Macchiato
+0,35,Latte
+0,34,Macchiato
+1,44,Cappuccino
+0,51,Cappuccino
+1,34,Mocha
+0,62,Mocha
+1,17,Mocha
+1,65,Latte
+1,23,Americano
+0,43,Cappuccino
+1,54,Cappuccino
+1,49,Latte
+0,60,Espresso
+1,58,Cappuccino
+0,27,Americano
+0,16,Latte
+0,15,Espresso
+0,19,Mocha
+0,62,Flat White
+0,29,Flat White
+0,47,Espresso
+0,32,Cappuccino
+1,45,Espresso
+0,42,Latte
+0,32,Macchiato
+0,32,Espresso
+0,37,Macchiato
+0,26,Americano
+1,35,Mocha
+1,41,Flat White
+1,64,Cappuccino
+0,22,Latte
+1,15,Cappuccino
+1,23,Americano
+0,45,Flat White
+0,35,Flat White
+0,33,Cappuccino
+1,61,Espresso
+1,34,Flat White
+1,23,Flat White
+1,49,Macchiato
+1,52,Flat White
+0,51,Macchiato
+1,62,Macchiato
+0,48,Latte
+0,22,Mocha
+1,56,Cappuccino
+1,46,Cappuccino
+1,63,Americano
+0,61,Mocha
+1,31,Espresso
+1,60,Americano
+1,41,Flat White
+1,49,Latte
+1,26,Espresso
+0,43,Mocha
+1,43,Macchiato
+0,58,Macchiato
+0,47,Macchiato
+0,36,Espresso
+0,53,Cappuccino
+0,17,Flat White
+1,51,Espresso
+0,26,Flat White
+1,40,Latte
+0,41,Americano
+0,17,Cappuccino
+0,21,Americano
+1,30,Macchiato
+1,24,Macchiato
+1,43,Latte
+1,21,Flat White
+1,29,Flat White
+0,58,Macchiato
+1,40,Flat White
+0,30,Cappuccino
+1,32,Macchiato
+0,63,Latte
+0,37,Cappuccino
+0,57,Flat White
+1,53,Espresso
+1,33,Americano
+0,45,Latte
+1,55,Macchiato
+1,33,Flat White
+0,18,Mocha
+1,45,Macchiato
+0,34,Macchiato
+1,44,Latte
+0,43,Macchiato
+0,39,Latte
+1,50,Espresso
+1,28,Macchiato
+0,27,Latte
+1,62,Cappuccino
+1,42,Mocha
+0,50,Macchiato
+1,48,Flat White
+0,52,Mocha
+0,41,Americano
+1,57,Macchiato
+0,51,Mocha
+0,52,Cappuccino
+1,55,Cappuccino
+0,19,Espresso
+0,41,Espresso
+0,35,Flat White
+1,31,Macchiato
+1,17,Flat White
+0,24,Macchiato
+1,37,Macchiato
+1,35,Americano
+1,43,Latte
+0,16,Macchiato
+1,39,Mocha
+1,42,Americano
+1,20,Americano
+1,49,Espresso
+1,47,Cappuccino
+1,59,Flat White
+0,36,Espresso
+0,65,Latte
+0,62,Latte
+0,58,Cappuccino
+1,35,Espresso
+1,19,Espresso
+1,53,Flat White
+0,57,Americano
+1,54,Latte
+0,52,Espresso
+1,26,Flat White
+1,65,Americano
+0,33,Cappuccino
+1,47,Latte
+0,54,Latte
+0,24,Macchiato
+0,65,Flat White
+0,64,Cappuccino
+1,62,Latte
+0,54,Latte
+1,25,Cappuccino
+1,45,Flat White
+0,61,Mocha
+1,36,Espresso
+0,30,Flat White
+1,31,Latte
+1,44,Cappuccino
+0,42,Mocha
+1,32,Flat White
+1,23,Americano
+0,42,Mocha
+0,28,Flat White
+1,49,Macchiato
+0,45,Latte
+0,28,Mocha
+1,41,Cappuccino
+0,40,Macchiato
+1,15,Macchiato
+1,59,Macchiato
+0,35,Flat White
+1,42,Americano
+1,48,Americano
+0,50,Mocha
+0,35,Mocha
+1,15,Espresso
+0,29,Flat White
+1,45,Espresso
+0,31,Mocha
+1,23,Cappuccino
+1,31,Latte
+1,59,Cappuccino
+1,23,Mocha
+1,64,Cappuccino
+0,20,Cappuccino
+1,32,Cappuccino
+0,24,Macchiato
+0,23,Espresso
+1,47,Americano
+0,42,Latte
+0,52,Mocha
+1,65,Flat White
+1,34,Mocha
+0,15,Flat White
+1,41,Flat White
+0,60,Espresso
+1,58,Cappuccino
+1,62,Latte
+0,25,Flat White
+1,37,Cappuccino
+1,34,Americano
+1,49,Espresso
+0,16,Latte
+1,43,Flat White
+1,15,Latte
+0,59,Espresso
+0,40,Espresso
+1,43,Macchiato
+0,65,Mocha
+0,52,Americano
+0,22,Flat White
+0,30,Macchiato
+0,17,Macchiato
+0,23,Macchiato
+0,18,Mocha
+0,53,Cappuccino
+0,45,Americano
+1,59,Espresso
+1,15,Mocha
+1,50,Latte
+0,24,Americano
+0,41,Mocha
+1,40,Americano
+1,45,Flat White
+1,26,Americano
+1,26,Flat White
+1,28,Flat White
+1,42,Latte
+1,53,Macchiato
+1,49,Mocha
+1,52,Espresso
+0,38,Espresso
+0,38,Latte
+0,53,Mocha
+1,17,Mocha
+1,21,Macchiato
+1,65,Americano
+1,37,Flat White
+0,53,Espresso
+0,38,Mocha
+1,63,Macchiato
+1,17,Americano
+1,18,Latte
+0,54,Espresso
+0,58,Latte
+1,35,Cappuccino
+1,21,Mocha
+0,65,Espresso
+1,46,Macchiato
+0,40,Flat White
+0,31,Flat White
+0,46,Macchiato
+0,50,Cappuccino
+0,15,Espresso
+1,40,Macchiato
+1,63,Mocha
+1,20,Cappuccino
+1,63,Latte
+0,26,Mocha
+1,33,Latte
+1,40,Cappuccino
+0,47,Americano
+0,55,Macchiato
+1,20,Macchiato
+0,59,Flat White
+0,45,Mocha
+0,55,Americano
+0,51,Americano
+1,65,Flat White
+0,17,Macchiato
+1,57,Flat White
+1,22,Macchiato
+1,41,Mocha
+0,51,Americano
+1,57,Cappuccino
+1,17,Macchiato
+0,47,Flat White
+0,19,Mocha
+0,27,Flat White
+1,34,Mocha
+0,34,Latte
+1,38,Flat White
+0,28,Cappuccino
+1,41,Latte
+1,22,Macchiato
+1,28,Americano
+0,30,Latte
+0,36,Flat White
+0,58,Mocha
+0,50,Espresso
+1,58,Espresso
+0,24,Americano
+1,59,Flat White
+1,39,Cappuccino
+0,21,Flat White
+0,28,Latte
+1,60,Macchiato
+1,44,Flat White
+1,28,Macchiato
+0,27,Flat White
+1,46,Latte
+0,29,Cappuccino
+0,51,Macchiato
+0,22,Latte
+0,53,Americano
+0,27,Americano
+1,32,Americano
+1,44,Espresso
+0,31,Espresso
+1,41,Flat White
+1,51,Americano
+0,62,Mocha
+0,64,Latte
+0,59,Americano
+0,17,Flat White
+1,41,Cappuccino
+1,33,Americano
+0,31,Macchiato
+0,56,Macchiato
+0,57,Macchiato
+1,46,Flat White
+0,55,Cappuccino
+1,36,Cappuccino
+1,51,Espresso
+1,34,Mocha
+1,38,Cappuccino
+0,20,Espresso
+1,44,Latte
+1,59,Espresso
+0,39,Mocha
+0,50,Latte
+0,20,Latte
+0,58,Macchiato
+1,22,Mocha
+0,18,Cappuccino
+1,33,Flat White
+0,25,Latte
+0,39,Cappuccino
+1,53,Espresso
+1,17,Latte
+0,62,Cappuccino
+1,23,Cappuccino
+0,28,Latte
+0,44,Flat White
+1,46,Macchiato
+1,32,Cappuccino
+1,22,Mocha
+1,19,Flat White
+1,54,Flat White
+0,65,Americano
+1,40,Macchiato
+1,26,Flat White
+0,22,Cappuccino
+1,52,Americano
+1,48,Americano
+0,39,Mocha
+0,43,Mocha
+1,49,Cappuccino
+0,59,Flat White
+0,62,Americano
+0,28,Mocha
+0,47,Mocha
+1,16,Americano
+0,53,Mocha
+1,52,Macchiato
+0,36,Americano
+0,47,Mocha
+1,38,Latte
+1,31,Macchiato
+1,62,Latte
+0,38,Latte
+1,22,Mocha
+1,45,Cappuccino
+0,25,Flat White
+1,31,Flat White
+1,52,Macchiato
+1,21,Mocha
+1,16,Espresso
+0,42,Espresso
+1,26,Espresso
+1,34,Mocha
+1,18,Latte
+1,17,Latte
+1,62,Mocha
+1,47,Espresso
+1,57,Macchiato
+0,38,Mocha
+0,16,Espresso
+1,41,Macchiato
+1,31,Espresso
+0,55,Latte
+1,34,Latte
+1,55,Americano
+1,45,Flat White
+1,41,Americano
+1,45,Flat White
+1,35,Macchiato
+0,59,Macchiato
+1,25,Cappuccino
+1,57,Flat White
+0,26,Flat White
+1,56,Mocha
+1,51,Americano
+1,43,Latte
+0,27,Flat White
+1,17,Cappuccino
+1,46,Macchiato
+0,51,Espresso
+0,34,Latte
+1,44,Macchiato
+1,43,Espresso
+1,26,Macchiato
+0,24,Flat White
+1,34,Cappuccino
+1,24,Mocha
+1,29,Macchiato
+1,29,Macchiato
+1,17,Espresso
+1,55,Espresso
+1,45,Cappuccino
+1,49,Americano
+1,23,Americano
+0,30,Flat White
+1,45,Cappuccino
+0,21,Americano
+0,19,Cappuccino
+1,15,Espresso
+0,26,Americano
+0,42,Cappuccino
+0,48,Cappuccino
+1,31,Cappuccino
+0,38,Americano
+1,27,Cappuccino
+1,53,Macchiato
+0,16,Americano
+1,53,Espresso
+1,49,Americano
+0,30,Flat White
+0,28,Macchiato
+0,58,Americano
+0,53,Americano
+0,49,Mocha
+1,43,Espresso
+1,54,Flat White
+1,18,Mocha
+1,40,Mocha
+0,33,Mocha
+1,48,Americano
+0,30,Mocha
+0,65,Macchiato
+1,29,Latte
+1,42,Macchiato
+0,23,Espresso
+1,48,Macchiato
+1,22,Cappuccino
+0,52,Americano
+0,37,Flat White
+0,37,Latte
+1,58,Flat White
+1,18,Latte
+0,48,Macchiato
+0,42,Cappuccino
+1,64,Mocha
+1,33,Mocha
+0,32,Americano
+1,55,Macchiato
+0,22,Latte
+1,49,Macchiato
+1,30,Latte
+1,34,Latte
+1,15,Flat White
+1,40,Macchiato
+0,65,Cappuccino
+0,40,Cappuccino
+1,17,Americano
+0,61,Mocha
+1,16,Cappuccino
+1,31,Macchiato
+1,22,Latte
+0,17,Macchiato
+1,38,Americano
+1,48,Macchiato
+0,45,Latte
+0,24,Macchiato
+1,63,Macchiato
+0,43,Espresso
+1,63,Latte
+0,63,Cappuccino
+0,31,Mocha
+1,55,Latte
+0,50,Cappuccino
+0,19,Latte
+0,48,Cappuccino
+0,43,Latte
+0,57,Cappuccino
+1,40,Flat White
+0,51,Macchiato
+0,37,Macchiato
+1,46,Cappuccino
+1,62,Macchiato
+0,33,Espresso
+1,27,Americano
+1,56,Cappuccino
+1,30,Flat White
+0,48,Americano
+1,43,Americano
+1,61,Espresso
+1,62,Americano
+1,32,Macchiato
+1,22,Espresso
+1,51,Espresso
+1,20,Flat White
+1,19,Latte
+1,23,Latte
+0,35,Flat White
+0,39,Espresso
+1,18,Espresso
+0,23,Mocha
+0,38,Macchiato
+1,48,Cappuccino
+0,39,Mocha
+0,30,Americano
+1,23,Mocha
+0,21,Flat White
+1,51,Americano
+1,28,Cappuccino
+1,22,Cappuccino
+0,46,Latte
+1,37,Latte
+1,17,Flat White
+1,65,Espresso
+0,36,Cappuccino
+0,24,Espresso
+0,19,Flat White
+0,47,Macchiato
+1,49,Flat White
+0,34,Macchiato
+1,32,Cappuccino
+0,47,Mocha
+1,21,Latte
+0,43,Latte
+0,32,Cappuccino
+1,27,Latte
+0,52,Macchiato
+0,37,Latte
+1,57,Mocha
+1,31,Espresso
+0,23,Flat White
+0,17,Cappuccino
+1,56,Flat White
+1,22,Macchiato
+0,56,Mocha
+1,37,Cappuccino
+1,36,Macchiato
+0,19,Mocha
+0,59,Macchiato
+0,23,Latte
+1,39,Latte
+0,35,Espresso
+0,36,Americano
+0,55,Latte
+0,62,Cappuccino
+1,17,Flat White
+0,54,Mocha
+0,50,Flat White
+0,23,Cappuccino
+0,53,Espresso
+0,61,Latte
+1,41,Mocha
+1,61,Latte
+1,28,Americano
+1,19,Americano
+1,49,Espresso
+1,24,Flat White
+0,34,Espresso
+0,57,Macchiato
+0,20,Flat White
+1,33,Mocha
+0,16,Latte
+1,36,Latte
+1,28,Latte
+1,21,Latte
+1,15,Flat White
+0,19,Flat White
+0,38,Macchiato
+0,30,Flat White
+1,32,Flat White
+1,22,Mocha
+1,43,Macchiato
+0,53,Americano
+1,63,Espresso
+0,32,Macchiato
+1,40,Macchiato
+1,63,Latte
+0,34,Mocha
+0,53,Latte
+1,52,Espresso
+0,48,Latte
+1,19,Mocha
+0,65,Macchiato
+0,23,Espresso
+1,39,Macchiato
+1,34,Macchiato
+1,48,Espresso
+1,59,Espresso
+1,39,Latte
+1,22,Macchiato
+0,42,Espresso
+0,39,Mocha
+1,18,Cappuccino
+0,62,Macchiato
+0,28,Mocha
+1,35,Latte
+1,56,Macchiato
+1,35,Flat White
+0,20,Flat White
+0,55,Cappuccino
+0,19,Latte
+1,39,Flat White
+0,64,Latte
+1,62,Cappuccino
+0,65,Mocha
+0,38,Macchiato
+1,60,Latte
+0,62,Macchiato
+0,42,Espresso
+0,35,Americano
+0,64,Flat White
+1,44,Americano
+0,55,Espresso
+1,61,Espresso
+0,65,Macchiato
+1,56,Americano
+1,36,Espresso
+1,30,Flat White
+1,31,Macchiato
+0,24,Macchiato
+1,63,Latte
+1,65,Mocha
+0,59,Americano
+0,30,Mocha
+0,44,Macchiato
+1,29,Latte
+0,21,Macchiato
+0,60,Cappuccino
+1,57,Americano
+1,48,Mocha
+1,47,Mocha
+1,48,Flat White
+0,47,Mocha
+0,52,Macchiato
+1,42,Latte
+0,52,Mocha
+1,40,Flat White
+1,30,Macchiato
+1,23,Mocha
+1,59,Americano
+0,50,Espresso
+1,61,Latte
+1,53,Flat White
+1,35,Flat White
+0,37,Macchiato
+1,36,Espresso
+1,24,Flat White
+0,64,Macchiato
+0,36,Espresso
+1,21,Flat White
+1,18,Espresso
+1,58,Mocha
+0,50,Macchiato
+0,31,Latte
+0,32,Americano
+1,19,Flat White
+1,53,Americano
+1,24,Flat White
+0,52,Mocha
+1,38,Espresso
+1,19,Cappuccino
+0,33,Latte
+1,64,Cappuccino
+1,46,Latte
+0,43,Cappuccino
+0,45,Mocha
+1,55,Mocha
+0,33,Latte
+1,34,Flat White
+1,57,Flat White
+1,41,Espresso
+0,30,Americano
+1,33,Cappuccino
+1,59,Latte
+0,38,Latte
+0,58,Mocha
+1,24,Americano
+0,23,Flat White
+0,22,Flat White
+1,60,Macchiato
+0,32,Cappuccino
+1,27,Espresso
+1,57,Espresso
+1,51,Americano
+0,34,Cappuccino
+0,43,Flat White
+0,47,Mocha
+1,50,Mocha
+1,45,Macchiato
+1,56,Mocha
+1,19,Cappuccino
+0,57,Macchiato
+1,55,Mocha
+1,15,Latte
+1,56,Latte
+1,57,Mocha
+0,25,Espresso
+1,42,Mocha
+1,43,Cappuccino
+0,41,Flat White
+1,21,Americano
+0,62,Flat White
+1,55,Americano
+0,25,Cappuccino
+1,50,Macchiato
+1,25,Mocha
+1,61,Flat White
+0,44,Latte
+1,29,Flat White
+0,19,Espresso
+1,19,Latte
+1,44,Mocha
+0,41,Flat White
+0,51,Espresso
+0,37,Espresso
+0,63,Macchiato
+0,58,Espresso
+0,42,Espresso
+0,23,Flat White
+0,23,Macchiato
+0,25,Cappuccino
+1,31,Mocha
+1,41,Mocha
+1,37,Flat White
+0,46,Americano
+0,47,Mocha
+0,27,Flat White
+1,19,Flat White
+0,22,Flat White
+0,55,Flat White
+1,40,Flat White
+1,34,Espresso
+0,36,Americano
+1,62,Latte
+1,62,Mocha
+1,38,Americano
+1,19,Latte
+0,51,Cappuccino
+0,17,Flat White
+1,65,Macchiato
+1,19,Latte
+0,43,Latte
+0,18,Flat White
+1,33,Americano
+0,54,Mocha
+1,38,Mocha
+0,56,Americano
+1,61,Cappuccino
+1,34,Espresso
+0,33,Mocha
+1,52,Mocha
+1,58,Macchiato
+1,60,Flat White
+1,19,Mocha
+1,34,Espresso
+1,61,Macchiato
+1,63,Latte
+0,18,Cappuccino
+0,55,Americano
+1,53,Americano
+1,42,Flat White
+1,65,Mocha
+1,52,Flat White
+1,22,Flat White
+0,36,Mocha
+0,52,Latte
+1,40,Americano
+1,63,Macchiato
+0,42,Mocha
+0,46,Latte
+1,44,Cappuccino
+1,58,Flat White
+1,45,Mocha
+1,58,Espresso
+0,42,Latte
+1,29,Latte
+1,25,Espresso
+1,36,Mocha
+0,35,Latte
+0,56,Macchiato
+0,45,Mocha
+0,31,Flat White
+0,18,Latte
+0,30,Latte
+1,52,Latte
+0,17,Americano
+0,38,Cappuccino
+1,52,Macchiato
+1,47,Latte
+1,46,Latte
+0,29,Latte
+0,54,Americano
+1,27,Cappuccino
+0,63,Espresso
+1,25,Mocha
+1,47,Cappuccino
+0,24,Espresso
+1,49,Mocha
+1,52,Latte
+0,54,Flat White
+0,19,Cappuccino
+1,65,Espresso
+0,41,Macchiato
+0,52,Flat White
+1,25,Flat White
+0,23,Mocha
+1,37,Mocha
+0,36,Macchiato
+0,59,Espresso
+0,39,Latte
+1,32,Mocha
+0,47,Latte
+0,46,Mocha
+1,52,Americano
+1,30,Flat White
+0,49,Mocha
+0,58,Mocha
+0,41,Mocha
+0,52,Cappuccino
+0,63,Americano
+1,29,Flat White
+1,56,Cappuccino
+1,56,Cappuccino
+0,63,Latte
+0,17,Mocha
+0,63,Americano
+1,35,Mocha
+1,25,Macchiato
+1,65,Macchiato
+1,22,Flat White
+1,51,Latte
+0,50,Mocha
+1,19,Flat White
+1,55,Macchiato
+1,18,Cappuccino
+1,48,Flat White
+0,44,Espresso
+1,24,Espresso
+1,64,Macchiato
+0,46,Flat White
+1,31,Mocha
+1,32,Cappuccino
+0,63,Macchiato
+0,35,Espresso
+0,46,Cappuccino
+1,33,Latte
+1,48,Macchiato
+1,54,Mocha
+0,34,Mocha
+0,57,Mocha
+0,63,Americano
+0,63,Macchiato
+1,33,Macchiato
+1,33,Flat White
+1,55,Macchiato
+1,38,Espresso
+0,20,Americano
+1,49,Espresso
+1,33,Latte
+1,40,Cappuccino
+1,16,Americano
+0,24,Latte
+1,61,Espresso
+0,63,Macchiato
+1,30,Americano
+1,61,Americano
+1,52,Espresso
+1,54,Macchiato
+1,34,Flat White
+1,51,Americano
+1,21,Cappuccino
+1,44,Macchiato
+0,28,Flat White
+1,31,Latte
+0,35,Espresso
+0,23,Cappuccino
+1,60,Latte
+1,52,Flat White
+0,59,Espresso
+0,64,Americano
+1,57,Flat White
+0,30,Cappuccino
+0,19,Flat White
+0,45,Cappuccino
+0,48,Mocha
+0,65,Mocha
+0,29,Latte
+0,20,Espresso
+0,41,Espresso
+1,51,Macchiato
+0,56,Espresso
+1,54,Espresso
+0,35,Mocha
+1,29,Latte
+1,52,Cappuccino
+1,46,Americano
+0,37,Macchiato
+1,57,Flat White
+1,47,Macchiato
+0,40,Latte
+0,49,Latte
+1,36,Macchiato
+0,41,Flat White
+1,29,Latte
+0,54,Espresso
+1,44,Cappuccino
+0,45,Macchiato
+1,21,Espresso
+1,19,Espresso
+1,44,Mocha
+1,51,Latte
+1,47,Cappuccino
+1,45,Espresso
+0,37,Latte
+0,62,Flat White
+0,36,Cappuccino
+0,53,Mocha
+0,49,Espresso
+0,22,Flat White
+0,22,Macchiato
+0,62,Latte
+1,58,Mocha
+1,65,Cappuccino
+1,64,Espresso
+1,49,Cappuccino
+0,31,Macchiato
+1,18,Mocha
+0,52,Cappuccino
+1,16,Espresso
+1,38,Macchiato
+1,57,Cappuccino
+0,23,Flat White
+1,32,Latte
+1,35,Espresso
+1,42,Macchiato
+1,32,Espresso
+0,16,Espresso
+1,23,Espresso
+0,45,Espresso
+1,40,Cappuccino
+0,27,Latte
+1,46,Cappuccino
+1,20,Macchiato
+1,16,Americano
+0,53,Macchiato
+0,21,Flat White
+0,50,Latte
+0,15,Macchiato
+0,46,Cappuccino
+0,21,Mocha
+1,65,Mocha
+1,30,Americano
+0,41,Cappuccino
+0,36,Espresso
+1,44,Macchiato
+0,55,Macchiato
+1,57,Mocha
+1,25,Americano
+1,26,Latte
+1,31,Latte
+0,43,Cappuccino
+0,35,Espresso
+0,24,Macchiato
+0,27,Espresso
+1,53,Americano
+1,21,Espresso
+1,57,Mocha
+1,31,Latte
+0,17,Espresso
+0,55,Cappuccino
+1,31,Macchiato
+0,43,Macchiato
+0,20,Macchiato
+0,24,Latte
+1,25,Mocha
+1,26,Flat White
+0,56,Mocha
+0,53,Latte
+0,22,Espresso
+1,47,Americano
+1,35,Espresso
+0,42,Mocha
+1,27,Cappuccino
+0,45,Macchiato
+0,15,Espresso
+1,45,Americano
+0,58,Espresso
+1,53,Flat White
+0,55,Latte
+1,25,Latte
+1,18,Cappuccino
+1,32,Espresso
+1,55,Espresso
+1,36,Macchiato
+1,60,Cappuccino
+0,43,Macchiato
+0,20,Cappuccino
+1,65,Macchiato
+1,32,Americano
+1,16,Cappuccino
+0,40,Americano
+0,47,Latte
+0,57,Americano
+0,36,Latte
+0,36,Americano
+0,40,Macchiato
+0,16,Macchiato
+1,32,Mocha
+0,54,Macchiato
+0,47,Americano
+0,16,Macchiato
+0,33,Flat White
+0,49,Mocha
+0,51,Macchiato
+1,42,Mocha
+0,48,Cappuccino
+1,63,Mocha
+0,18,Espresso
+0,53,Espresso
+0,57,Mocha
+0,23,Americano
+0,29,Mocha
+0,59,Cappuccino
+1,34,Mocha
+0,48,Espresso
+1,59,Americano
+1,57,Latte
+1,40,Americano
+0,54,Cappuccino
+1,37,Macchiato
+1,24,Cappuccino
+0,22,Espresso
+0,16,Americano
+0,38,Flat White
+1,65,Flat White
+1,51,Flat White
+0,20,Latte
+1,15,Latte
+1,42,Latte
+0,34,Mocha
+0,26,Americano
+0,50,Espresso
+0,27,Latte
+1,44,Cappuccino
+1,21,Cappuccino
+1,45,Flat White
+1,52,Latte
+1,61,Latte
+0,36,Espresso
+1,54,Cappuccino
+1,24,Americano
+0,45,Espresso
+0,23,Mocha
+0,37,Latte
+1,54,Espresso
+0,65,Macchiato
+0,45,Espresso
+0,29,Cappuccino
+0,51,Americano
+1,18,Mocha
+1,37,Latte
+0,22,Latte
+0,32,Latte
+1,43,Mocha
+0,59,Mocha
+1,36,Flat White
+1,57,Espresso
+0,22,Latte
+0,46,Macchiato
+0,23,Latte
+1,62,Mocha
+0,62,Flat White
+0,37,Flat White
+1,24,Cappuccino
+0,52,Americano
+1,64,Flat White
+1,54,Mocha
+0,47,Espresso
+0,15,Macchiato
+1,46,Latte
+1,21,Macchiato
+0,47,Espresso
+0,51,Macchiato
+0,27,Espresso
+0,46,Latte
+1,43,Mocha
+0,27,Espresso
+0,25,Mocha
+0,58,Cappuccino
+1,63,Macchiato
+1,18,Macchiato
+0,33,Latte
+1,53,Macchiato
+0,26,Americano
+1,32,Espresso
+1,64,Mocha
+1,55,Flat White
+1,62,Mocha
+0,16,Cappuccino
+0,33,Espresso
+1,41,Macchiato
+1,44,Macchiato
+0,21,Cappuccino
+1,45,Cappuccino
+1,35,Latte
+0,15,Americano
+1,61,Latte
+1,62,Cappuccino
+0,52,Americano
+0,20,Macchiato
+0,59,Mocha
+0,41,Mocha
+0,28,Cappuccino
+0,19,Mocha
+0,37,Cappuccino
+0,42,Americano
+1,24,Americano
+0,50,Macchiato
+0,44,Latte
+0,21,Americano
+1,37,Mocha
+0,28,Macchiato
+1,46,Mocha
+1,19,Mocha
+1,33,Macchiato
+1,51,Cappuccino
+1,45,Flat White
+0,31,Espresso
+0,34,Mocha
+0,56,Cappuccino
+1,42,Macchiato
+1,42,Espresso
+0,41,Latte
+1,56,Cappuccino
+1,58,Flat White
+0,59,Latte
+0,20,Cappuccino
+1,46,Cappuccino
+1,26,Latte
+0,36,Latte
+0,20,Flat White
+0,62,Macchiato
+1,63,Flat White
+1,31,Macchiato
+1,15,Mocha
+0,38,Mocha
+0,18,Americano
+0,38,Espresso
+1,64,Latte
+1,40,Americano
+1,56,Espresso
+0,61,Macchiato
+1,61,Macchiato
+1,50,Latte
+0,23,Cappuccino
+1,49,Latte
+0,35,Mocha
+1,45,Mocha
+0,27,Latte
+1,26,Espresso
+0,55,Mocha
+0,26,Macchiato
+0,36,Flat White
+0,48,Espresso
+0,61,Espresso
+0,27,Espresso
+1,38,Mocha
+1,61,Macchiato
+1,61,Latte
+0,17,Cappuccino
+1,28,Espresso
+1,57,Cappuccino
+1,18,Flat White
+0,20,Macchiato
+0,31,Cappuccino
+0,29,Latte
+0,41,Mocha
+1,56,Latte
+0,35,Espresso
+1,26,Cappuccino
+0,42,Cappuccino
+0,40,Cappuccino
+0,61,Espresso
+1,20,Mocha
+0,44,Macchiato
+0,18,Cappuccino
+1,19,Flat White
+0,62,Americano
+0,23,Flat White
+0,45,Macchiato
+1,58,Mocha
+1,36,Latte
+0,45,Flat White
+1,51,Mocha
+0,47,Macchiato
+0,57,Flat White
+1,37,Flat White
+1,22,Americano
+1,58,Americano
+0,32,Espresso
+0,58,Macchiato
+0,39,Americano
+1,58,Latte
+0,38,Macchiato
+1,29,Espresso
+1,52,Latte
+1,15,Cappuccino
+0,17,Cappuccino
+1,62,Macchiato
+1,64,Mocha
+0,61,Cappuccino
+1,60,Macchiato
+1,58,Macchiato
+0,64,Americano
+1,27,Mocha
+1,52,Espresso
+1,22,Espresso
+0,32,Cappuccino
+0,64,Cappuccino
+0,54,Flat White
+0,19,Flat White
+0,61,Flat White
+1,31,Espresso
+1,47,Cappuccino
+1,25,Flat White
+1,38,Latte
+0,38,Flat White
+1,47,Flat White
+1,44,Macchiato
+0,58,Flat White
+0,50,Espresso
+1,61,Cappuccino
+0,43,Mocha
+1,25,Americano
+0,48,Latte
+1,27,Cappuccino
+0,43,Americano
+0,51,Mocha
+0,42,Espresso
+1,59,Cappuccino
+0,25,Espresso
+1,57,Latte
+0,62,Mocha
+0,16,Espresso
+1,23,Macchiato
+0,25,Macchiato
+1,30,Mocha
+1,55,Americano
+0,65,Macchiato
+1,57,Flat White
+1,55,Cappuccino
+0,55,Flat White
+0,45,Flat White
+1,28,Macchiato
+1,15,Flat White
+0,54,Cappuccino
+1,42,Latte
+0,44,Espresso
+0,53,Flat White
+0,48,Flat White
+1,49,Cappuccino
+0,61,Cappuccino
+1,30,Mocha
+0,27,Flat White
+0,52,Mocha
+0,46,Espresso
+0,19,Cappuccino
+0,23,Americano
+1,18,Cappuccino
+1,20,Cappuccino
+1,36,Macchiato
+0,39,Macchiato
+0,42,Espresso
+0,39,Americano
+1,33,Flat White
+0,57,Espresso
+1,41,Macchiato
+1,48,Cappuccino
+0,58,Espresso
+0,34,Espresso
+1,34,Latte
+1,34,Americano
+0,51,Flat White
+1,56,Americano
+1,19,Latte
+1,39,Flat White
+1,42,Mocha
+0,47,Macchiato
+0,44,Mocha
+1,28,Macchiato
+0,38,Mocha
+1,55,Espresso
+0,53,Cappuccino
+1,42,Americano
+0,40,Latte
+1,44,Flat White
+0,33,Cappuccino
+1,48,Espresso
+1,40,Mocha
+1,65,Cappuccino
+1,20,Latte
+0,32,Americano
+0,44,Mocha
+1,15,Macchiato
+1,16,Flat White
+0,34,Latte
+1,59,Macchiato
+0,47,Mocha
+0,58,Macchiato
+0,21,Americano
+1,62,Cappuccino
+0,33,Americano
+1,36,Macchiato
+1,59,Espresso
+1,23,Macchiato
+0,36,Americano
+0,20,Macchiato
+1,47,Macchiato
+1,57,Flat White
+0,37,Cappuccino
+1,53,Americano
+1,15,Macchiato
+1,64,Latte
+1,33,Americano
+1,43,Flat White
+0,33,Macchiato
+0,45,Americano
+1,60,Flat White
+1,48,Cappuccino
+0,16,Mocha
+1,47,Americano
+0,33,Americano
+0,45,Americano
+1,40,Latte
+0,64,Flat White
+0,24,Flat White
+0,24,Mocha
+1,43,Mocha
+0,54,Cappuccino
+0,19,Mocha
+0,31,Mocha
+1,56,Espresso
+1,55,Flat White
+1,45,Cappuccino
+0,51,Cappuccino
+0,20,Espresso
+1,63,Americano
+0,17,Latte
+1,25,Cappuccino
+1,43,Cappuccino
+1,21,Cappuccino
+0,27,Latte
+1,29,Cappuccino
+1,61,Flat White
+0,49,Mocha
+0,21,Mocha
+1,18,Cappuccino
+0,56,Flat White
+0,49,Cappuccino
+1,26,Americano
+1,26,Espresso
+1,15,Cappuccino
+0,60,Cappuccino
+0,34,Latte
+0,43,Americano
+0,21,Mocha
+1,33,Espresso
+1,42,Americano
+0,30,Mocha
+0,17,Americano
+1,38,Flat White
+0,65,Cappuccino
+0,47,Latte
+0,21,Cappuccino
+0,57,Latte
+0,49,Flat White
+0,56,Latte
+0,23,Flat White
+1,35,Mocha
+0,26,Flat White
+1,39,Espresso
+1,36,Macchiato
+1,65,Cappuccino
+0,20,Espresso
+0,27,Macchiato
+1,43,Macchiato
+0,55,Mocha
+1,57,Flat White
+0,40,Latte
+1,23,Cappuccino
+1,47,Espresso
+1,57,Flat White
+0,50,Americano
+0,22,Latte
+0,36,Americano
+0,27,Flat White
+1,43,Espresso
+1,55,Mocha
+1,40,Mocha
+1,60,Macchiato
+1,63,Latte
+1,29,Americano
+1,57,Cappuccino
+0,56,Mocha
+1,57,Espresso
+0,34,Mocha
+1,49,Macchiato
+1,53,Espresso
+0,28,Macchiato
+1,37,Flat White
+1,48,Espresso
+0,27,Macchiato
+1,37,Latte
+0,49,Flat White
+1,61,Latte
+0,62,Mocha
+1,22,Macchiato
+0,30,Cappuccino
+1,17,Espresso
+1,50,Mocha
+1,16,Flat White
+0,52,Americano
+0,62,Flat White
+0,35,Americano
+1,55,Americano
+1,27,Flat White
+0,44,Mocha
+0,20,Macchiato
+0,49,Latte
+1,23,Latte
+0,33,Flat White
+0,49,Cappuccino
+0,25,Flat White
+0,40,Latte
+0,21,Espresso
+1,37,Flat White
+1,55,Cappuccino
+0,42,Macchiato
+1,24,Mocha
+0,29,Americano
+0,19,Espresso
+1,19,Flat White
+0,52,Latte
+0,49,Flat White
+0,37,Flat White
+1,37,Latte
+0,19,Macchiato
+1,22,Cappuccino
+0,34,Mocha
+1,41,Cappuccino
+1,34,Latte
+0,63,Mocha
+1,15,Flat White
+0,25,Flat White
+1,58,Latte
+1,21,Mocha
+1,36,Latte
+1,25,Macchiato
+1,64,Macchiato
+0,49,Macchiato
+1,15,Macchiato
+0,28,Cappuccino
+1,33,Flat White
+0,15,Flat White
+0,24,Americano
+0,24,Americano
+1,26,Macchiato
+0,36,Macchiato
+1,41,Macchiato
+0,59,Macchiato
+1,29,Flat White
+0,23,Mocha
+0,32,Americano
+1,26,Espresso
+1,16,Espresso
+0,38,Latte
+0,39,Macchiato
+1,57,Latte
+1,65,Cappuccino
+0,52,Latte
+0,34,Mocha
+1,63,Americano
+0,51,Americano
+1,19,Latte
+0,17,Flat White
+1,17,Cappuccino
+0,34,Flat White
+0,27,Macchiato
+0,49,Americano
+1,27,Flat White
+1,17,Macchiato
+0,27,Latte
+0,40,Latte
+1,45,Latte
+0,40,Latte
+0,56,Espresso
+1,60,Macchiato
+0,38,Macchiato
+1,42,Mocha
+1,31,Latte
+0,38,Espresso
+0,24,Latte
+1,58,Mocha
+0,54,Americano
+1,35,Macchiato
+1,18,Americano
+1,34,Macchiato
+1,32,Mocha
+0,37,Cappuccino
+0,24,Espresso
+1,54,Macchiato
+0,43,Cappuccino
+1,27,Espresso
+1,24,Americano
+0,56,Flat White
+0,22,Mocha
+0,53,Latte
+0,53,Espresso
+1,26,Mocha
+1,38,Espresso
+1,17,Flat White
+0,40,Latte
+0,65,Flat White
+1,54,Americano
+1,19,Macchiato
+1,51,Americano
+0,56,Espresso
+1,35,Espresso
+0,46,Mocha
+1,43,Macchiato
+0,46,Flat White
+0,64,Latte
+0,63,Cappuccino
+0,29,Cappuccino
+0,21,Mocha
+1,47,Mocha
+1,49,Cappuccino
+0,23,Americano
+1,28,Latte
+0,35,Flat White
+1,55,Americano
+1,40,Espresso
+0,62,Latte
+0,34,Macchiato
+1,58,Mocha
+1,51,Espresso
+1,40,Flat White
+1,42,Flat White
+1,18,Espresso
+1,51,Flat White
+0,47,Mocha
+0,16,Espresso
+1,25,Espresso
+0,23,Mocha
+1,41,Flat White
+0,17,Mocha
+0,50,Mocha
+1,29,Flat White
+0,65,Espresso
+0,45,Flat White
+0,58,Mocha
+0,49,Mocha
+0,51,Latte
+1,19,Flat White
+0,15,Americano
+1,41,Latte
+1,39,Flat White
+0,55,Cappuccino
+1,25,Macchiato
+1,31,Espresso
+0,18,Cappuccino
+1,42,Cappuccino
+0,23,Espresso
+1,28,Cappuccino
+1,18,Cappuccino
+1,25,Macchiato
+1,29,Americano
+1,17,Latte
+0,57,Espresso
+1,60,Macchiato
+0,59,Espresso
+1,55,Americano
+0,46,Espresso
+1,39,Macchiato
+1,28,Espresso
+1,24,Cappuccino
+0,41,Mocha
+1,23,Americano
+0,20,Americano
+1,65,Macchiato
+0,35,Mocha
+0,22,Americano
+0,63,Cappuccino
+0,27,Latte
+1,19,Espresso
+1,25,Cappuccino
+1,20,Espresso
+1,56,Mocha
+0,40,Americano
+0,25,Espresso
+1,36,Mocha
+1,26,Latte
+0,31,Latte
+1,19,Espresso
+0,19,Mocha
+1,42,Espresso
+0,58,Espresso
+1,60,Macchiato
+1,57,Latte
+1,56,Americano
+1,42,Latte
+0,40,Macchiato
+0,25,Espresso
+0,31,Espresso
+0,53,Latte
+0,57,Espresso
+1,52,Flat White
+1,31,Espresso
+0,53,Espresso
+0,62,Espresso
+1,33,Latte
+1,37,Flat White
+0,41,Americano
+1,65,Flat White
+1,33,Americano
+0,38,Espresso
+1,63,Espresso
+1,56,Americano
+0,28,Espresso
+1,37,Flat White
+0,53,Macchiato
+1,42,Flat White
+1,38,Macchiato
+1,18,Americano
+0,62,Cappuccino
+1,64,Flat White
+1,45,Cappuccino
+1,50,Flat White
+0,22,Americano
+0,45,Mocha
+1,39,Americano
+1,52,Macchiato
+1,65,Mocha
+1,32,Mocha
+0,59,Latte
+1,35,Espresso
+1,15,Americano
+1,38,Latte
+1,43,Americano
+1,29,Espresso
+0,29,Flat White
+0,65,Latte
+0,40,Americano
+0,21,Americano
+1,24,Espresso
+1,60,Cappuccino
+0,22,Americano
+1,47,Cappuccino
+0,50,Latte
+0,27,Flat White
+1,44,Espresso
+0,49,Latte
+0,16,Macchiato
+1,34,Espresso
+1,24,Espresso
+1,27,Americano
+1,29,Cappuccino
+1,37,Flat White
+1,58,Flat White
+1,16,Mocha
+0,62,Mocha
+0,23,Macchiato
+0,47,Cappuccino
+0,34,Mocha
+0,54,Americano
+1,18,Americano
+0,16,Mocha
+0,53,Cappuccino
+1,17,Latte
+0,50,Americano
+0,35,Cappuccino
+1,41,Americano
+1,56,Flat White
+1,15,Mocha
+0,36,Espresso
+0,62,Macchiato
+1,52,Cappuccino
+1,58,Macchiato
+0,24,Americano
+0,34,Flat White
+0,40,Macchiato
+1,27,Flat White
+0,22,Mocha
+0,25,Flat White
+0,57,Espresso
+0,65,Mocha
+0,62,Flat White
+0,22,Mocha
+0,21,Flat White
+0,62,Cappuccino
+0,19,Americano
+1,40,Macchiato
+1,34,Cappuccino
+0,57,Espresso
+0,29,Macchiato
+0,45,Latte
+1,65,Latte
+1,49,Macchiato
+1,19,Espresso
+0,56,Espresso
+0,35,Latte
+0,17,Americano
+1,25,Mocha
+0,44,Flat White
+1,17,Macchiato
+1,36,Mocha
+1,18,Americano
+0,49,Espresso
+0,58,Cappuccino
+0,55,Latte
+1,17,Espresso
+1,50,Latte
+1,59,Mocha
+1,26,Mocha
+0,26,Flat White
+0,20,Flat White
+0,50,Espresso
+1,16,Espresso
+0,55,Macchiato
+1,63,Cappuccino
+1,31,Macchiato
+0,26,Mocha
+0,63,Cappuccino
+1,22,Latte
+0,21,Latte
+1,15,Flat White
+0,45,Latte
+0,45,Flat White
+0,48,Americano
+0,49,Cappuccino
+1,23,Espresso
+0,37,Latte
+0,39,Cappuccino
+1,56,Cappuccino
+0,24,Latte
+1,41,Latte
+1,65,Macchiato
+1,56,Latte
+0,38,Macchiato
+0,53,Americano
+0,56,Latte
+0,57,Latte
+1,31,Espresso
+0,52,Americano
+0,57,Mocha
+0,46,Americano
+1,15,Cappuccino
+1,58,Americano
+1,64,Espresso
+1,61,Flat White
+0,33,Mocha
+0,58,Mocha
+0,47,Latte
+0,28,Americano
+1,47,Americano
+0,39,Mocha
+0,23,Latte
+1,41,Flat White
+0,56,Espresso
+0,23,Latte
+0,37,Macchiato
+0,23,Espresso
+1,25,Mocha
+0,64,Espresso
+0,35,Cappuccino
+0,54,Macchiato
+0,47,Flat White
+0,33,Macchiato
+0,45,Macchiato
+0,20,Americano
+1,61,Macchiato
+1,16,Cappuccino
+1,23,Espresso
+0,35,Flat White
+1,40,Americano
+1,54,Latte
+1,49,Americano
+1,18,Macchiato
+1,56,Espresso
+0,57,Espresso
+0,50,Cappuccino
+0,39,Espresso
+1,26,Espresso
+1,37,Macchiato
+0,28,Cappuccino
+0,17,Macchiato
+1,36,Espresso
+0,15,Cappuccino
+0,16,Macchiato
+1,42,Espresso
+1,25,Espresso
+0,29,Macchiato
+0,46,Americano
+0,29,Flat White
+0,54,Macchiato
+0,29,Latte
+0,47,Macchiato
+1,32,Americano
+0,25,Macchiato
+1,39,Cappuccino
+0,58,Latte
+1,45,Espresso
+0,26,Mocha
+1,41,Mocha
+0,23,Latte
+0,20,Americano
+1,38,Mocha
+0,57,Cappuccino
+0,53,Cappuccino
+1,46,Latte
+1,44,Mocha
+1,62,Mocha
+0,35,Americano
+0,26,Cappuccino
+0,43,Cappuccino
+0,35,Latte
+1,62,Macchiato
+0,40,Macchiato
+0,54,Latte
+0,61,Mocha
+0,49,Americano
+0,48,Mocha
+0,33,Flat White
+0,30,Flat White
+0,20,Espresso
+0,48,Latte
+0,33,Mocha
+0,55,Mocha
+0,36,Americano
+1,39,Mocha
+0,64,Macchiato
+1,30,Macchiato
+1,26,Macchiato
+1,54,Latte
+0,60,Latte
+1,52,Espresso
+0,17,Mocha
+1,30,Flat White
+1,50,Latte
+1,23,Mocha
+0,24,Latte
+0,35,Cappuccino
+0,25,Cappuccino
+1,58,Espresso
+1,37,Mocha
+1,36,Latte
+1,62,Flat White
+0,50,Mocha
+0,32,Cappuccino
+0,25,Cappuccino
+0,65,Macchiato
+0,50,Mocha
+1,63,Latte
+0,25,Cappuccino
+1,52,Espresso
+1,22,Mocha
+1,42,Macchiato
+0,58,Flat White
+1,32,Americano
+1,48,Flat White
+1,29,Espresso
+0,36,Latte
+1,45,Macchiato
+1,47,Espresso
+0,61,Americano
+0,34,Flat White
+1,60,Espresso
+1,51,Mocha
+0,34,Flat White
+1,43,Mocha
+0,52,Cappuccino
+1,36,Mocha
+1,18,Mocha
+0,46,Flat White
+1,61,Americano
+0,43,Flat White
+0,58,Flat White
+1,42,Americano
+0,24,Espresso
+1,60,Mocha
+1,60,Macchiato
+1,27,Latte
+1,20,Americano
+0,21,Cappuccino
+1,26,Flat White
+0,63,Americano
+1,60,Flat White
+0,34,Flat White
+1,62,Espresso
+0,65,Mocha
+1,46,Mocha
+0,47,Americano
+0,37,Espresso
+1,55,Latte
+0,43,Americano
+1,37,Cappuccino
+1,62,Cappuccino
+0,30,Flat White
+1,55,Flat White
+1,49,Cappuccino
+1,44,Cappuccino
+0,63,Mocha
+0,58,Espresso
+1,63,Macchiato
+0,44,Espresso
+1,61,Mocha
+0,35,Espresso
+0,51,Cappuccino
+1,58,Flat White
+1,55,Flat White
+0,43,Latte
+0,34,Americano
+0,37,Flat White
+1,43,Latte
+1,38,Americano
+0,58,Americano
+0,47,Mocha
+0,40,Cappuccino
+1,40,Mocha
+0,32,Mocha
+0,44,Americano
+1,58,Mocha
+0,55,Cappuccino
+1,24,Latte
+0,29,Americano
+1,51,Americano
+0,20,Latte
+0,62,Cappuccino
+1,19,Americano
+0,39,Americano
+0,18,Americano
+0,39,Espresso
+0,56,Latte
+0,40,Macchiato
+0,23,Americano
+0,57,Macchiato
+1,42,Americano
+0,36,Espresso
+0,54,Macchiato
+1,64,Flat White
+1,33,Flat White
+1,29,Mocha
+1,18,Macchiato
+0,22,Espresso
+1,30,Espresso
+1,16,Cappuccino
+0,64,Macchiato
+0,53,Mocha
+0,33,Latte
+1,61,Latte
+1,18,Mocha
+1,29,Cappuccino
+0,17,Flat White
+1,41,Cappuccino
+0,20,Flat White
+1,18,Americano
+1,20,Latte
+1,52,Mocha
+1,32,Flat White
+1,41,Macchiato
+0,42,Mocha
+0,50,Espresso
+1,56,Americano
+1,27,Macchiato
+0,31,Mocha
+1,59,Cappuccino
+1,54,Mocha
+1,50,Espresso
+0,36,Americano
+0,65,Latte
+1,46,Espresso
+1,63,Americano
+0,44,Americano
+1,31,Espresso
+0,47,Espresso
+0,65,Macchiato
+0,29,Americano
+0,55,Macchiato
+0,60,Macchiato
+1,50,Mocha
+1,41,Espresso
+0,23,Mocha
+0,60,Americano
+0,29,Latte
+1,32,Americano
+0,15,Espresso
+1,23,Flat White
+0,32,Latte
+1,37,Espresso
+1,49,Latte
+0,57,Latte
+0,50,Latte
+0,23,Macchiato
+0,40,Latte
+1,44,Flat White
+1,60,Latte
+1,36,Macchiato
+0,36,Espresso
+0,50,Macchiato
+0,25,Espresso
+0,19,Cappuccino
+1,41,Macchiato
+0,53,Mocha
+1,31,Latte
+0,38,Espresso
+1,65,Flat White
+1,48,Flat White
+0,26,Cappuccino
+1,55,Espresso
+1,64,Flat White
+1,47,Cappuccino
+0,27,Flat White
+0,43,Espresso
+0,64,Americano
+0,59,Americano
+0,47,Flat White
+0,15,Americano
+1,20,Americano
+0,40,Mocha
+0,45,Macchiato
+0,36,Cappuccino
+0,46,Latte
+0,60,Espresso
+1,55,Espresso
+0,18,Macchiato
+1,37,Macchiato
+1,61,Latte
+0,27,Espresso
+1,39,Latte
+1,54,Macchiato
+0,29,Americano
+0,35,Flat White
+1,21,Macchiato
+0,53,Americano
+0,15,Americano
+0,16,Flat White
+1,50,Cappuccino
+0,19,Americano
+1,60,Cappuccino
+0,65,Latte
+0,37,Macchiato
+1,63,Flat White
+1,35,Espresso
+0,61,Americano
+1,53,Espresso
+1,51,Macchiato
+1,33,Americano
+1,32,Latte
+0,37,Cappuccino
+1,61,Macchiato
+0,48,Cappuccino
+1,51,Macchiato
+1,28,Latte
+0,57,Cappuccino
+1,54,Espresso
+0,48,Mocha
+0,36,Mocha
+0,62,Macchiato
+1,21,Latte
+1,26,Cappuccino
+1,15,Espresso
+0,56,Cappuccino
+1,65,Mocha
+1,41,Flat White
+0,42,Mocha
+1,18,Cappuccino
+1,35,Macchiato
+1,23,Americano
+1,58,Flat White
+0,47,Mocha
+0,23,Latte
+0,47,Macchiato
+0,28,Americano
+1,54,Americano
+0,50,Mocha
+1,37,Americano
+0,17,Macchiato
+1,22,Americano
+0,19,Macchiato
+1,65,Macchiato
+0,25,Mocha
+1,53,Macchiato
+0,59,Americano
+0,48,Macchiato
+0,16,Espresso
+1,27,Macchiato
+1,52,Americano
+1,48,Macchiato
+1,42,Mocha
+1,49,Cappuccino
+0,52,Espresso
+0,61,Espresso
+1,63,Flat White
+1,44,Cappuccino
+0,16,Mocha
+0,52,Americano
+0,41,Macchiato
+0,16,Espresso
+1,55,Americano
+0,32,Mocha
+0,21,Americano
+1,55,Americano
+0,18,Americano
+1,28,Espresso
+0,39,Latte
+1,53,Macchiato
+0,63,Americano
+1,31,Latte
+0,47,Flat White
+0,43,Cappuccino
+1,36,Americano
+0,32,Espresso
+0,16,Flat White
+0,61,Macchiato
+1,21,Cappuccino
+0,44,Flat White
+1,61,Latte
+0,37,Mocha
+0,51,Flat White
+1,57,Flat White
+1,20,Espresso
+1,32,Flat White
+1,19,Flat White
+1,65,Americano
+1,49,Cappuccino
+0,30,Mocha
+1,20,Flat White
+1,39,Cappuccino
+1,52,Mocha
+0,22,Cappuccino
+1,15,Cappuccino
+1,28,Latte
+0,37,Flat White
+0,39,Cappuccino
+1,24,Latte
+1,20,Macchiato
+1,20,Cappuccino
+1,25,Mocha
+1,55,Espresso
+1,18,Americano
+1,49,Cappuccino
+0,46,Flat White
+0,58,Macchiato
+1,26,Flat White
+0,50,Latte
+1,18,Latte
+0,24,Americano
+1,37,Espresso
+0,48,Flat White
+1,38,Americano
+0,22,Mocha
+1,56,Latte
+0,47,Americano
+0,24,Americano
+1,30,Cappuccino
+1,48,Latte
+1,46,Mocha
+1,24,Latte
+1,18,Flat White
+0,44,Espresso
+1,45,Macchiato
+1,38,Mocha
+0,41,Macchiato
+1,36,Mocha
+1,24,Cappuccino
+0,46,Americano
+1,31,Macchiato
+1,16,Flat White
+0,59,Macchiato
+0,48,Mocha
+1,59,Latte
+1,65,Latte
+0,24,Flat White
+0,42,Cappuccino
+0,62,Mocha
+0,30,Americano
+1,61,Americano
+0,38,Flat White
+1,32,Mocha
+1,59,Latte
+1,26,Cappuccino
+1,30,Flat White
+1,18,Latte
+1,63,Latte
+0,35,Latte
+0,34,Americano
+0,52,Espresso
+0,38,Latte
+1,42,Latte
+0,26,Macchiato
+1,47,Mocha
+0,27,Latte
+1,58,Americano
+1,58,Latte
+0,53,Americano
+0,41,Latte
+0,48,Flat White
+0,21,Latte
+0,65,Latte
+0,58,Macchiato
+0,26,Latte
+0,25,Flat White
+0,63,Espresso
+1,42,Flat White
+1,52,Flat White
+1,25,Macchiato
+1,28,Mocha
+0,52,Mocha
+0,34,Espresso
+1,34,Latte
+1,34,Americano
+0,21,Mocha
+0,32,Macchiato
+1,44,Espresso
+1,44,Espresso
+0,38,Cappuccino
+1,43,Espresso
+0,43,Mocha
+0,23,Flat White
+0,29,Cappuccino
+1,63,Espresso
+1,51,Cappuccino
+0,59,Cappuccino
+1,52,Flat White
+1,61,Cappuccino
+1,27,Latte
+1,55,Flat White
+1,43,Flat White
+0,26,Flat White
+0,27,Cappuccino
+1,46,Americano
+0,45,Americano
+1,58,Flat White
+0,51,Cappuccino
+0,33,Americano
+1,56,Flat White
+1,47,Flat White
+0,48,Macchiato
+1,61,Espresso
+0,17,Americano
+0,47,Flat White
+1,15,Macchiato
+1,44,Mocha
+1,30,Espresso
+0,47,Cappuccino
+1,16,Flat White
+1,34,Espresso
+0,16,Flat White
+1,62,Mocha
+0,29,Espresso
+1,32,Americano
+0,56,Flat White
+1,19,Mocha
+1,21,Latte
+0,53,Cappuccino
+0,64,Macchiato
+1,49,Espresso
+1,22,Americano
+1,60,Cappuccino
+1,43,Flat White
+1,16,Espresso
+0,47,Latte
+1,52,Latte
+0,31,Espresso
+0,26,Mocha
+0,52,Espresso
+1,28,Latte
+0,25,Latte
+1,23,Flat White
+1,46,Macchiato
+0,52,Espresso
+1,17,Mocha
+0,63,Macchiato
+0,47,Mocha
+0,49,Cappuccino
+0,25,Espresso
+0,39,Cappuccino
+1,65,Flat White
+0,57,Latte
+1,37,Latte
+1,53,Americano
+0,65,Latte
+0,28,Flat White
+0,37,Macchiato
+1,56,Americano
+0,16,Flat White
+1,21,Americano
+1,16,Macchiato
+1,65,Latte
+1,54,Cappuccino
+1,39,Espresso
+1,23,Cappuccino
+0,65,Espresso
+0,52,Mocha
+0,16,Flat White
+0,40,Americano
+1,43,Americano
+0,49,Flat White
+0,45,Latte
+1,41,Americano
+0,36,Mocha
+1,42,Cappuccino
+1,39,Flat White
+1,15,Cappuccino
+0,38,Latte
+1,28,Flat White
+1,46,Espresso
+1,30,Mocha
+1,48,Macchiato
+1,61,Macchiato
+1,42,Espresso
+1,56,Espresso
+1,28,Cappuccino
+1,62,Latte
+0,23,Latte
+0,24,Americano
+1,15,Flat White
+1,43,Americano
+0,17,Latte
+0,50,Americano
+0,38,Americano
+1,15,Flat White
+0,63,Espresso
+0,24,Macchiato
+0,63,Americano
+0,33,Cappuccino
+0,29,Latte
+0,54,Cappuccino
+1,46,Espresso
+1,44,Espresso
+1,22,Cappuccino
+1,22,Cappuccino
+1,46,Mocha
+0,43,Cappuccino
+0,43,Mocha
+1,18,Espresso
+0,29,Latte
+1,29,Macchiato
+1,51,Flat White
+0,22,Macchiato
+0,52,Flat White
+0,55,Espresso
+0,52,Flat White
+0,38,Espresso
+1,23,Mocha
+0,63,Espresso
+0,21,Espresso
+1,61,Macchiato
+0,64,Americano
+0,63,Americano
+0,53,Cappuccino
+0,33,Mocha
+1,48,Americano
+0,61,Cappuccino
+0,42,Latte
+1,16,Flat White
+1,31,Espresso
+0,40,Mocha
+1,61,Americano
+0,46,Latte
+0,42,Flat White
+0,21,Latte
+1,45,Americano
+0,21,Latte
+0,39,Espresso
+0,18,Americano
+1,52,Flat White
+1,64,Macchiato
+1,61,Flat White
+1,29,Espresso
+0,30,Mocha
+0,43,Latte
+0,45,Macchiato
+0,51,Macchiato
+0,27,Espresso
+0,49,Americano
+1,21,Americano
+1,20,Macchiato
+0,27,Flat White
+1,28,Macchiato
+0,53,Cappuccino
+0,65,Macchiato
+1,49,Macchiato
+1,62,Flat White
+1,38,Latte
+1,57,Mocha
+0,32,Espresso
+1,58,Macchiato
+1,59,Flat White
+1,49,Cappuccino
+1,21,Mocha
+1,38,Latte
+1,56,Espresso
+1,26,Flat White
+0,60,Espresso
+1,32,Espresso
+1,15,Mocha
+1,43,Macchiato
+0,59,Macchiato
+0,54,Macchiato
+0,64,Cappuccino
+1,51,Espresso
+1,46,Mocha
+1,36,Cappuccino
+0,44,Cappuccino
+1,49,Flat White
+0,22,Americano
+1,49,Cappuccino
+0,36,Latte
+0,47,Americano
+1,57,Macchiato
+0,48,Flat White
+1,31,Espresso
+1,48,Latte
+0,20,Espresso
+1,42,Flat White
+0,34,Americano
+1,24,Macchiato
+0,59,Espresso
+0,39,Latte
+1,52,Flat White
+0,41,Latte
+1,27,Macchiato
+0,16,Mocha
+1,19,Macchiato
+0,33,Latte
+1,55,Mocha
+0,63,Macchiato
+0,57,Latte
+0,63,Macchiato
+1,21,Latte
+1,49,Mocha
+0,58,Latte
+0,38,Latte
+0,55,Latte
+0,26,Flat White
+0,35,Flat White
+1,60,Latte
+1,56,Mocha
+1,36,Americano
+1,34,Americano
+1,41,Mocha
+0,63,Cappuccino
+1,25,Mocha
+0,44,Cappuccino
+1,64,Macchiato
+0,37,Mocha
+0,64,Americano
+0,50,Flat White
+1,35,Mocha
+1,19,Americano
+1,45,Americano
+1,28,Mocha
+1,32,Cappuccino
+1,44,Cappuccino
+0,26,Mocha
+0,36,Mocha
+1,26,Macchiato
+0,34,Americano
+1,17,Macchiato
+0,25,Mocha
+0,63,Flat White
+1,29,Americano
+0,63,Espresso
+1,62,Americano
+1,39,Macchiato
+0,23,Espresso
+1,56,Latte
+0,59,Mocha
+0,51,Latte
+0,36,Latte
+1,49,Mocha
+0,42,Espresso
+1,44,Mocha
+1,28,Espresso
+1,64,Mocha
+0,40,Latte
+0,36,Flat White
+1,56,Macchiato
+1,47,Latte
+0,64,Mocha
+1,39,Latte
+1,29,Americano
+1,24,Mocha
+0,61,Cappuccino
+1,34,Mocha
+0,47,Espresso
+1,32,Flat White
+0,34,Latte
+0,27,Cappuccino
+1,45,Macchiato
+1,43,Espresso
+0,22,Mocha
+1,36,Mocha
+0,35,Americano
+0,51,Mocha
+0,45,Cappuccino
+1,54,Espresso
+0,49,Flat White
+0,63,Americano
+1,47,Latte
+1,22,Flat White
+1,37,Latte
+1,57,Latte
+0,55,Flat White
+0,41,Mocha
+1,19,Americano
+1,54,Flat White
+1,32,Macchiato
+0,65,Macchiato
+1,59,Latte
+1,29,Latte
+0,19,Macchiato
+0,59,Macchiato
+0,33,Latte
+0,41,Macchiato
+1,42,Cappuccino
+1,42,Flat White
+1,23,Mocha
+1,32,Cappuccino
+1,56,Latte
+1,62,Latte
+1,64,Americano
+1,57,Macchiato
+1,25,Latte
+0,22,Flat White
+1,59,Americano
+1,60,Americano
+0,20,Espresso
+1,37,Flat White
+1,52,Mocha
+0,24,Macchiato
+1,34,Cappuccino
+0,54,Latte
+0,49,Cappuccino
+1,27,Latte
+1,56,Flat White
+0,38,Espresso
+1,61,Macchiato
+1,36,Mocha
+0,39,Cappuccino
+0,32,Macchiato
+1,44,Espresso
+1,51,Latte
+0,24,Macchiato
+0,33,Latte
+0,15,Espresso
+1,32,Americano
+0,21,Flat White
+0,59,Espresso
+0,58,Cappuccino
+1,36,Macchiato
+1,46,Macchiato
+0,39,Mocha
+1,60,Americano
+0,39,Mocha
+1,36,Espresso
+1,43,Americano
+1,62,Latte
+1,64,Flat White
+0,17,Flat White
+1,45,Espresso
+0,32,Macchiato
+1,56,Flat White
+1,62,Americano
+1,38,Cappuccino
+0,60,Espresso
+1,20,Espresso
+0,51,Espresso
+1,19,Mocha
+0,18,Americano
+0,26,Macchiato
+1,47,Mocha
+0,59,Americano
+1,59,Latte
+1,18,Cappuccino
+1,44,Cappuccino
+0,34,Americano
+0,57,Flat White
+1,44,Macchiato
+0,49,Cappuccino
+1,15,Flat White
+1,46,Flat White
+1,16,Latte
+1,45,Flat White
+1,26,Macchiato
+1,16,Espresso
+1,27,Espresso
+1,54,Espresso
+0,64,Espresso
+0,16,Macchiato
+0,58,Macchiato
+0,26,Mocha
+0,36,Macchiato
+0,53,Cappuccino
+0,29,Latte
+1,44,Espresso
+1,42,Cappuccino
+1,48,Mocha
+1,36,Americano
+0,20,Macchiato
+0,20,Espresso
+0,25,Mocha
+0,54,Cappuccino
+0,49,Flat White
+1,21,Flat White
+1,62,Americano
+0,30,Mocha
+0,16,Flat White
+1,21,Espresso
+1,19,Flat White
+1,21,Americano
+1,26,Espresso
+0,20,Mocha
+1,53,Espresso
+0,18,Flat White
+1,32,Mocha
+0,32,Cappuccino
+0,40,Latte
+0,63,Americano
+1,41,Espresso
+0,37,Cappuccino
+1,57,Espresso
+1,55,Espresso
+0,54,Latte
+1,18,Cappuccino
+1,63,Flat White
+1,39,Espresso
+0,37,Latte
+1,48,Espresso
+1,29,Espresso
+1,55,Espresso
+0,23,Macchiato
+0,33,Espresso
+1,56,Macchiato
+0,32,Macchiato
+0,16,Flat White
+0,36,Mocha
+0,54,Espresso
+0,50,Flat White
+0,28,Mocha
+1,62,Mocha
+1,34,Flat White
+0,19,Cappuccino
+1,51,Macchiato
+1,31,Espresso
+0,25,Macchiato
+0,37,Espresso
+1,47,Mocha
+1,56,Espresso
+0,40,Latte
+1,15,Espresso
+0,24,Espresso
+1,44,Mocha
+0,18,Americano
+0,26,Latte
+0,65,Macchiato
+0,23,Latte
+0,42,Espresso
+0,39,Cappuccino
+1,19,Latte
+1,43,Espresso
+0,46,Cappuccino
+0,55,Latte
+0,15,Americano
+0,28,Mocha
+0,39,Macchiato
+0,63,Espresso
+1,44,Mocha
+0,17,Espresso
+0,17,Latte
+1,51,Cappuccino
+1,30,Cappuccino
+0,23,Mocha
+1,29,Latte
+0,28,Macchiato
+0,42,Espresso
+1,20,Americano
+1,29,Espresso
+0,33,Espresso
+0,16,Macchiato
+1,41,Espresso
+1,55,Macchiato
+0,41,Latte
+1,21,Latte
+1,45,Latte
+0,64,Macchiato
+0,58,Americano
+0,24,Flat White
+0,50,Americano
+0,19,Espresso
+1,33,Mocha
+1,59,Espresso
+1,48,Flat White
+1,36,Americano
+0,60,Latte
+0,42,Latte
+1,28,Mocha
+0,33,Mocha
+1,16,Mocha
+0,47,Macchiato
+1,58,Latte
+0,59,Espresso
+0,51,Latte
+0,37,Cappuccino
+1,20,Macchiato
+1,38,Macchiato
+1,58,Flat White
+0,41,Mocha
+0,18,Espresso
+0,50,Flat White
+0,28,Cappuccino
+1,20,Espresso
+1,26,Cappuccino
+1,35,Americano
+1,42,Cappuccino
+0,43,Macchiato
+1,41,Latte
+0,22,Latte
+0,44,Espresso
+1,26,Cappuccino
+1,34,Macchiato
+1,58,Cappuccino
+1,27,Americano
+1,24,Americano
+0,59,Cappuccino
+1,42,Macchiato
+1,22,Americano
+1,35,Flat White
+1,53,Espresso
+0,38,Americano
+1,20,Cappuccino
+1,44,Cappuccino
+1,21,Latte
+0,54,Espresso
+1,32,Latte
+0,50,Espresso
+1,36,Latte
+1,29,Mocha
+0,62,Latte
+1,48,Mocha
+0,56,Latte
+1,17,Flat White
+1,31,Americano
+0,20,Macchiato
+0,60,Mocha
+1,16,Mocha
+0,21,Flat White
+0,16,Flat White
+0,41,Americano
+0,46,Mocha
+0,16,Espresso
+1,24,Latte
+1,22,Macchiato
+1,43,Mocha
+1,31,Flat White
+0,38,Espresso
+0,53,Macchiato
+0,55,Espresso
+1,38,Latte
+1,21,Cappuccino
+0,19,Cappuccino
+0,34,Macchiato
+0,16,Americano
+0,44,Latte
+0,52,Mocha
+0,60,Espresso
+1,56,Flat White
+1,64,Espresso
+0,25,Americano
+1,21,Flat White
+0,32,Macchiato
+1,18,Americano
+1,52,Flat White
+0,58,Flat White
+0,39,Espresso
+0,43,Mocha
+1,60,Flat White
+1,16,Espresso
+1,39,Espresso
+0,35,Espresso
+0,46,Macchiato
+0,49,Mocha
+0,26,Latte
+0,34,Cappuccino
+0,63,Latte
+0,46,Macchiato
+0,50,Cappuccino
+1,43,Mocha
+0,63,Mocha
+0,50,Espresso
+1,64,Macchiato
+1,62,Latte
+1,56,Cappuccino
+1,42,Espresso
+0,22,Mocha
+0,59,Mocha
+1,45,Americano
+1,33,Mocha
+0,16,Americano
+1,20,Espresso
+1,50,Flat White
+0,20,Flat White
+0,41,Cappuccino
+1,65,Mocha
+0,23,Americano
+1,27,Cappuccino
+1,27,Flat White
+1,19,Cappuccino
+1,56,Mocha
+1,61,Macchiato
+1,53,Espresso
+1,52,Macchiato
+0,28,Mocha
+0,20,Cappuccino
+0,46,Mocha
+1,56,Cappuccino
+1,43,Macchiato
+0,22,Flat White
+1,52,Macchiato
+0,65,Espresso
+1,17,Flat White
+1,47,Flat White
+0,32,Flat White
+0,55,Latte
+0,54,Cappuccino
+0,18,Macchiato
+1,62,Macchiato
+0,50,Latte
+1,35,Mocha
+0,40,Espresso
+1,29,Espresso
+0,64,Flat White
+0,45,Espresso
+1,21,Espresso
+0,54,Americano
+1,44,Macchiato
+0,64,Mocha
+1,15,Latte
+1,60,Espresso
+1,29,Mocha
+0,26,Espresso
+0,35,Macchiato
+0,17,Flat White
+0,34,Espresso
+1,42,Latte
+0,51,Latte
+1,15,Cappuccino
+0,24,Latte
+1,57,Mocha
+0,43,Cappuccino
+1,38,Mocha
+0,65,Espresso
+0,45,Latte
+0,45,Americano
+0,59,Latte
+1,22,Americano
+0,42,Americano
+0,48,Mocha
+0,62,Flat White
+1,50,Latte
+1,65,Mocha
+1,49,Mocha
+0,27,Americano
+1,41,Cappuccino
+0,58,Americano
+1,19,Macchiato
+1,61,Flat White
+0,63,Macchiato
+1,59,Americano
+1,19,Macchiato
+1,38,Cappuccino
+1,54,Latte
+0,63,Macchiato
+0,50,Macchiato
+1,57,Cappuccino
+0,29,Flat White
+1,32,Espresso
+0,42,Americano
+0,65,Flat White
+0,51,Mocha
+1,41,Latte
+0,38,Mocha
+1,54,Cappuccino
+1,58,Macchiato
+1,47,Mocha
+1,18,Cappuccino
+1,51,Americano
+1,19,Macchiato
+0,57,Macchiato
+1,56,Macchiato
+0,20,Americano
+0,63,Latte
+0,44,Espresso
+0,20,Latte
+0,48,Macchiato
+1,61,Americano
+1,64,Mocha
+0,17,Latte
+1,15,Flat White
+1,33,Latte
+0,20,Espresso
+0,20,Americano
+1,46,Macchiato
+0,28,Cappuccino
+1,53,Latte
+1,56,Cappuccino
+1,64,Latte
+1,42,Macchiato
+1,23,Americano
+0,24,Americano
+0,30,Flat White
+1,58,Cappuccino
+0,55,Espresso
+0,30,Espresso
+0,18,Espresso
+0,36,Cappuccino
+0,29,Americano
+0,54,Cappuccino
+1,20,Mocha
+0,41,Mocha
+1,57,Cappuccino
+1,58,Macchiato
+0,51,Mocha
+0,18,Espresso
+1,44,Mocha
+0,34,Espresso
+1,55,Cappuccino
+1,62,Macchiato
+1,37,Latte
+0,46,Espresso
+0,35,Mocha
+1,51,Americano
+0,29,Cappuccino
+1,64,Flat White
+0,47,Mocha
+1,62,Flat White
+1,21,Flat White
+1,60,Cappuccino
+1,64,Americano
+0,59,Cappuccino
+1,19,Americano
+1,49,Flat White
+0,27,Latte
+1,23,Americano
+0,19,Mocha
+1,58,Macchiato
+1,60,Macchiato
+0,43,Macchiato
+1,52,Flat White
+0,38,Macchiato
+0,64,Americano
+1,42,Flat White
+0,49,Mocha
+0,19,Americano
+0,36,Mocha
+1,23,Americano
+0,46,Cappuccino
+1,40,Cappuccino
+1,55,Flat White
+0,22,Espresso
+0,23,Espresso
+1,22,Latte
+0,65,Americano
+1,50,Latte
+1,63,Latte
+0,25,Flat White
+0,40,Mocha
+0,47,Americano
+0,47,Flat White
+1,39,Mocha
+0,55,Flat White
+1,39,Latte
+0,60,Latte
+1,38,Macchiato
+1,38,Flat White
+1,48,Cappuccino
+0,19,Espresso
+1,31,Espresso
+0,34,Espresso
+0,54,Macchiato
+0,21,Macchiato
+0,25,Cappuccino
+1,44,Flat White
+0,54,Americano
+0,40,Cappuccino
+1,65,Espresso
+0,32,Cappuccino
+1,60,Macchiato
+1,50,Cappuccino
+0,28,Macchiato
+0,17,Flat White
+1,56,Latte
+0,19,Flat White
+0,22,Flat White
+1,35,Cappuccino
+0,59,Americano
+0,20,Flat White
+1,50,Mocha
+1,20,Flat White
+0,64,Mocha
+1,32,Espresso
+1,29,Flat White
+0,25,Cappuccino
+1,22,Macchiato
+0,33,Macchiato
+1,62,Flat White
+1,59,Americano
+0,39,Macchiato
+0,65,Flat White
+1,28,Flat White
+1,40,Mocha
+1,62,Espresso
+0,33,Espresso
+0,44,Flat White
+0,58,Mocha
+1,43,Mocha
+0,36,Espresso
+0,30,Americano
+0,26,Flat White
+0,47,Macchiato
+1,15,Flat White
+1,44,Mocha
+0,28,Cappuccino
+1,37,Mocha
+1,26,Latte
+0,36,Flat White
+0,53,Americano
+1,39,Macchiato
+1,41,Macchiato
+1,33,Latte
+0,40,Mocha
+0,64,Espresso
+0,52,Flat White
+1,20,Americano
+1,51,Flat White
+0,40,Cappuccino
+0,23,Americano
+1,59,Cappuccino
+1,47,Macchiato
+1,30,Macchiato
+0,27,Espresso
+1,55,Flat White
+0,62,Mocha
+1,62,Mocha
+0,61,Espresso
+1,51,Espresso
+1,45,Mocha
+0,23,Latte
+0,53,Macchiato
+1,41,Latte
+0,61,Macchiato
+0,56,Cappuccino
+0,47,Latte
+1,41,Cappuccino
+1,48,Americano
+0,29,Latte
+0,52,Latte
+1,54,Mocha
+0,25,Espresso
+1,48,Latte
+0,30,Latte
+0,29,Cappuccino
+1,17,Latte
+1,30,Latte
+0,38,Mocha
+0,19,Macchiato
+1,19,Espresso
+1,44,Mocha
+1,47,Espresso
+1,23,Mocha
+0,61,Cappuccino
+0,59,Flat White
+0,27,Flat White
+1,41,Espresso
+1,17,Flat White
+1,34,Mocha
+0,64,Espresso
+1,22,Latte
+0,60,Espresso
+0,21,Espresso
+0,53,Macchiato
+0,38,Espresso
+0,30,Macchiato
+1,30,Cappuccino
+1,40,Americano
+0,15,Americano
+0,28,Americano
+0,22,Flat White
+0,53,Americano
+0,47,Cappuccino
+1,36,Mocha
+1,25,Latte
+1,25,Americano
+1,64,Espresso
+0,42,Americano
+1,21,Mocha
+1,53,Flat White
+1,28,Espresso
+0,28,Flat White
+1,58,Latte
+1,53,Latte
+1,40,Latte
+0,55,Latte
+0,37,Flat White
+0,24,Macchiato
+1,48,Latte
+0,25,Mocha
+0,34,Cappuccino
+1,42,Espresso
+1,44,Cappuccino
+0,21,Cappuccino
+1,36,Flat White
+0,64,Flat White
+0,58,Macchiato
+0,29,Latte
+1,45,Macchiato
+1,40,Macchiato
+1,51,Cappuccino
+1,60,Mocha
+1,27,Americano
+1,64,Mocha
+1,47,Americano
+1,60,Macchiato
+0,63,Flat White
+0,45,Mocha
+1,21,Flat White
+0,16,Latte
+1,32,Espresso
+1,54,Latte
+1,50,Macchiato
+0,32,Espresso
+0,48,Macchiato
+1,33,Latte
+0,53,Americano
+1,43,Mocha
+1,54,Cappuccino
+1,55,Espresso
+0,48,Espresso
+1,59,Flat White
+0,40,Flat White
+0,53,Americano
+0,65,Espresso
+0,53,Cappuccino
+1,34,Mocha
+1,48,Macchiato
+0,37,Cappuccino
+1,58,Flat White
+1,59,Macchiato
+0,52,Espresso
+1,34,Flat White
+0,42,Mocha
+1,28,Espresso
+1,19,Americano
+0,49,Flat White
+1,33,Espresso
+0,36,Cappuccino
+0,42,Espresso
+1,36,Mocha
+1,65,Americano
+0,45,Flat White
+1,56,Mocha
+1,55,Macchiato
+0,51,Cappuccino
+0,20,Americano
+1,35,Macchiato
+0,41,Flat White
+1,59,Macchiato
+0,50,Americano
+0,53,Espresso
+0,52,Flat White
+0,18,Cappuccino
+1,46,Cappuccino
+0,60,Macchiato
+0,23,Latte
+0,56,Espresso
+0,25,Flat White
+0,35,Macchiato
+1,43,Americano
+1,47,Cappuccino
+0,16,Mocha
+1,53,Latte
+0,52,Cappuccino
+0,16,Macchiato
+1,56,Cappuccino
+1,37,Flat White
+1,56,Americano
+0,46,Mocha
+0,54,Flat White
+0,58,Espresso
+1,46,Latte
+1,35,Cappuccino
+1,51,Mocha
+1,51,Latte
+1,53,Americano
+0,45,Mocha
+1,42,Espresso
+0,45,Flat White
+1,19,Latte
+1,61,Macchiato
+1,35,Macchiato
+1,16,Americano
+0,19,Espresso
+1,58,Flat White
+1,19,Espresso
+1,29,Espresso
+0,30,Flat White
+0,64,Espresso
+0,29,Espresso
+0,50,Latte
+1,64,Mocha
+0,33,Cappuccino
+1,34,Espresso
+0,48,Mocha
+1,40,Mocha
+0,34,Latte
+1,49,Mocha
+1,37,Flat White
+0,39,Mocha
+0,62,Macchiato
+1,54,Macchiato
+0,60,Americano
+1,57,Flat White
+0,32,Mocha
+1,59,Americano
+1,21,Americano
+0,61,Mocha
+0,46,Latte
+0,56,Cappuccino
+1,26,Cappuccino
+0,20,Flat White
+0,57,Latte
+1,37,Espresso
+1,25,Cappuccino
+1,37,Macchiato
+0,30,Latte
+1,62,Americano
+1,18,Flat White
+0,65,Espresso
+1,15,Espresso
+1,48,Cappuccino
+0,53,Espresso
+0,63,Cappuccino
+0,33,Mocha
+1,49,Flat White
+0,17,Macchiato
+1,64,Latte
+1,33,Latte
+0,65,Mocha
+0,17,Macchiato
+1,31,Mocha
+1,23,Macchiato
+1,60,Espresso
+0,25,Flat White
+1,34,Flat White
+0,34,Cappuccino
+1,36,Flat White
+1,40,Mocha
+1,31,Mocha
+0,42,Latte
+0,26,Cappuccino
+1,40,Mocha
+1,49,Cappuccino
+1,44,Americano
+1,52,Mocha
+1,21,Espresso
+0,28,Latte
+0,20,Espresso
+0,58,Macchiato
+1,63,Mocha
+1,15,Mocha
+1,50,Mocha
+1,20,Cappuccino
+0,64,Americano
+1,63,Cappuccino
+1,44,Latte
+1,38,Espresso
+0,57,Americano
+1,36,Cappuccino
+0,17,Espresso
+0,23,Flat White
+1,40,Cappuccino
+1,51,Espresso
+1,65,Americano
+0,29,Americano
+1,27,Americano
+0,17,Macchiato
+0,46,Cappuccino
+0,16,Latte
+0,21,Latte
+0,27,Latte
+1,50,Flat White
+0,20,Espresso
+1,40,Flat White
+0,26,Cappuccino
+1,47,Macchiato
+0,44,Macchiato
+0,53,Macchiato
+0,39,Macchiato
+0,44,Flat White
+1,44,Macchiato
+1,18,Latte
+1,30,Flat White
+0,24,Latte
+1,56,Flat White
+1,41,Espresso
+1,46,Flat White
+0,59,Macchiato
+1,48,Americano
+1,20,Mocha
+1,18,Flat White
+1,59,Flat White
+0,17,Macchiato
+0,22,Cappuccino
+1,17,Latte
+0,54,Americano
+0,29,Latte
+1,50,Flat White
+0,17,Cappuccino
+0,39,Mocha
+0,31,Flat White
+0,24,Flat White
+0,19,Latte
+0,36,Cappuccino
+0,41,Flat White
+1,62,Mocha
+0,26,Mocha
+1,29,Mocha
+1,42,Macchiato
+0,47,Americano
+0,61,Cappuccino
+1,19,Espresso
+0,56,Espresso
+0,25,Americano
+1,17,Mocha
+1,31,Americano
+1,15,Macchiato
+0,42,Cappuccino
+1,34,Latte
+0,25,Americano
+0,33,Macchiato
+1,61,Flat White
+0,49,Americano
+0,64,Americano
+1,22,Espresso
+1,45,Mocha
+1,20,Macchiato
+0,25,Cappuccino
+0,38,Americano
+1,24,Espresso
+1,27,Espresso
+0,45,Macchiato
+0,37,Flat White
+1,36,Flat White
+1,22,Espresso
+1,53,Mocha
+0,56,Macchiato
+0,56,Americano
+0,22,Flat White
+0,23,Americano
+0,45,Espresso
+1,42,Americano
+0,20,Macchiato
+1,16,Americano
+1,32,Mocha
+0,50,Espresso
+0,23,Americano
+1,61,Mocha
+0,24,Cappuccino
+0,38,Latte
+1,15,Flat White
+1,57,Latte
+0,52,Mocha
+0,32,Americano
+0,37,Americano
+1,54,Flat White
+0,40,Latte
+0,25,Mocha
+1,46,Mocha
+1,39,Americano
+0,17,Macchiato
+1,37,Flat White
+1,47,Cappuccino
+1,19,Espresso
+1,44,Espresso
+1,33,Espresso
+0,27,Latte
+0,43,Flat White
+1,17,Mocha
+1,17,Americano
+1,22,Americano
+1,44,Espresso
+0,62,Americano
+1,53,Espresso
+1,48,Flat White
+1,49,Cappuccino
+0,62,Flat White
+1,61,Macchiato
+0,36,Mocha
+1,39,Latte
+0,37,Espresso
+0,38,Mocha
+0,58,Mocha
+1,64,Flat White
+1,42,Mocha
+0,24,Macchiato
+0,62,Macchiato
+1,32,Americano
+0,36,Latte
+1,18,Espresso
+1,59,Macchiato
+0,29,Macchiato
+1,16,Espresso
+0,33,Macchiato
+1,46,Mocha
+1,24,Mocha
+1,34,Americano
+1,46,Mocha
+0,16,Flat White
+0,61,Espresso
+1,23,Latte
+1,41,Latte
+0,65,Americano
+1,27,Mocha
+0,34,Espresso
+0,43,Latte
+0,59,Espresso
+0,49,Flat White
+1,24,Americano
+1,52,Cappuccino
+0,47,Latte
+0,18,Flat White
+1,40,Cappuccino
+0,36,Macchiato
+1,46,Americano
+0,62,Mocha
+1,18,Americano
+1,44,Flat White
+1,63,Macchiato
+0,22,Mocha
+1,54,Macchiato
+0,65,Mocha
+0,60,Cappuccino
+0,17,Espresso
+0,29,Americano
+0,16,Espresso
+0,27,Espresso
+1,35,Mocha
+1,46,Cappuccino
+0,23,Latte
+0,60,Flat White
+1,63,Cappuccino
+1,21,Americano
+1,65,Latte
+1,56,Latte
+0,34,Americano
+0,25,Americano
+0,23,Latte
+1,32,Flat White
+0,56,Americano
+1,45,Espresso
+1,19,Latte
+0,41,Latte
+1,16,Americano
+1,34,Cappuccino
+0,44,Macchiato
+1,24,Flat White
+1,48,Macchiato
+0,46,Mocha
+1,65,Mocha
+1,22,Espresso
+0,42,Americano
+0,31,Espresso
+1,60,Espresso
+0,20,Americano
+0,34,Macchiato
+0,56,Cappuccino
+0,43,Macchiato
+1,28,Espresso
+1,40,Flat White
+1,36,Espresso
+0,58,Espresso
+1,23,Flat White
+1,21,Macchiato
+0,50,Flat White
+1,35,Americano
+1,57,Flat White
+0,46,Espresso
+1,41,Macchiato
+1,65,Cappuccino
+0,40,Americano
+1,25,Latte
+0,26,Flat White
+1,42,Cappuccino
+1,57,Cappuccino
+0,61,Flat White
+1,30,Cappuccino
+1,43,Mocha
+0,49,Macchiato
+0,22,Americano
+1,43,Flat White
+1,47,Latte
+0,25,Mocha
+0,32,Mocha
+0,51,Americano
+1,37,Cappuccino
+0,44,Espresso
+0,64,Cappuccino
+1,53,Americano
+0,47,Espresso
+0,61,Cappuccino
+0,65,Macchiato
+0,34,Macchiato
+0,37,Flat White
+0,42,Macchiato
+1,63,Espresso
+1,35,Mocha
+1,38,Cappuccino
+1,38,Americano
+0,51,Espresso
+1,25,Americano
+1,49,Espresso
+1,65,Americano
+0,36,Latte
+0,42,Americano
+1,32,Espresso
+1,64,Latte
+0,62,Flat White
+0,36,Macchiato
+1,59,Mocha
+1,62,Latte
+0,25,Macchiato
+0,23,Espresso
+1,44,Espresso
+1,53,Americano
+0,63,Macchiato
+0,21,Latte
+1,51,Latte
+0,53,Latte
+0,29,Americano
+0,59,Espresso
+0,28,Mocha
+0,60,Espresso
+1,33,Mocha
+0,56,Latte
+1,23,Flat White
+1,61,Latte
+0,30,Macchiato
+1,64,Latte
+0,57,Espresso
+0,48,Americano
+0,23,Macchiato
+0,26,Americano
+0,57,Espresso
+0,60,Americano
+1,35,Americano
+0,39,Americano
+0,60,Americano
+0,60,Flat White
+0,33,Americano
+1,54,Flat White
+1,65,Macchiato
+0,42,Mocha
+0,50,Cappuccino
+1,57,Mocha
+1,49,Macchiato
+1,28,Latte
+1,52,Macchiato
+0,18,Flat White
+0,43,Macchiato
+1,59,Macchiato
+1,34,Cappuccino
+0,54,Latte
+0,17,Flat White
+0,62,Cappuccino
+1,31,Flat White
+0,55,Latte
+0,54,Flat White
+1,47,Mocha
+1,42,Espresso
+1,33,Espresso
+1,36,Americano
+1,62,Latte
+1,57,Espresso
+1,21,Latte
+0,55,Flat White
+0,22,Mocha
+0,34,Americano
+0,17,Americano
+0,20,Cappuccino
+1,60,Cappuccino
+1,40,Flat White
+0,33,Mocha
+0,58,Flat White
+1,29,Mocha
+0,51,Espresso
+1,21,Macchiato
+1,23,Mocha
+1,57,Latte
+0,40,Macchiato
+0,59,Macchiato
+1,34,Cappuccino
+1,60,Flat White
+1,55,Macchiato
+1,35,Macchiato
+0,61,Mocha
+0,55,Mocha
+1,24,Espresso
+1,31,Espresso
+0,61,Cappuccino
+0,19,Americano
+1,38,Flat White
+1,16,Cappuccino
+1,23,Cappuccino
+0,56,Macchiato
+1,15,Americano
+0,17,Macchiato
+0,56,Latte
+0,19,Americano
+0,22,Macchiato
+1,28,Flat White
+0,16,Latte
+0,60,Latte
+1,59,Flat White
+1,30,Mocha
+0,23,Espresso
+1,45,Americano
+1,55,Macchiato
+1,42,Flat White
+1,54,Latte
+0,16,Mocha
+0,39,Americano
+0,36,Cappuccino
+1,19,Latte
+1,38,Mocha
+1,21,Mocha
+1,29,Flat White
+0,20,Mocha
+1,32,Latte
+1,15,Espresso
+1,35,Flat White
+1,51,Latte
+0,58,Espresso
+0,31,Cappuccino
+0,57,Flat White
+0,42,Cappuccino
+0,29,Flat White
+0,41,Mocha
+0,52,Flat White
+0,19,Flat White
+0,62,Americano
+0,61,Cappuccino
+0,33,Espresso
+1,21,Americano
+1,30,Cappuccino
+1,54,Espresso
+1,50,Cappuccino
+1,37,Espresso
+0,39,Macchiato
+0,64,Mocha
+0,52,Flat White
+1,52,Mocha
+1,18,Americano
+1,43,Americano
+0,24,Espresso
+0,31,Americano
+1,54,Macchiato
+1,30,Americano
+1,27,Flat White
+0,24,Espresso
+1,22,Mocha
+1,19,Espresso
+1,30,Americano
+1,29,Latte
+0,27,Macchiato
+0,19,Cappuccino
+1,50,Cappuccino
+1,19,Cappuccino
+1,36,Espresso
+0,56,Flat White
+0,57,Mocha
+0,23,Mocha
+0,54,Mocha
+0,55,Latte
+1,35,Americano
+1,16,Mocha
+1,49,Macchiato
+0,48,Macchiato
+0,48,Espresso
+1,42,Macchiato
+1,54,Mocha
+0,52,Latte
+0,15,Americano
+0,28,Espresso
+0,65,Espresso
+1,61,Macchiato
+1,55,Macchiato
+1,49,Latte
+0,59,Macchiato
+0,57,Espresso
+1,30,Macchiato
+0,24,Espresso
+0,58,Americano
+1,35,Americano
+0,28,Espresso
+1,50,Cappuccino
+1,24,Flat White
+1,48,Espresso
+0,35,Mocha
+0,42,Flat White
+0,30,Espresso
+1,20,Macchiato
+0,57,Espresso
+0,17,Cappuccino
+0,28,Cappuccino
+1,47,Latte
+1,46,Espresso
+1,16,Espresso
+1,25,Espresso
+1,45,Mocha
+1,55,Cappuccino
+0,17,Americano
+0,28,Macchiato
+1,58,Macchiato
+1,24,Espresso
+0,33,Espresso
+0,47,Cappuccino
+0,24,Mocha
+1,22,Flat White
+0,49,Espresso
+1,36,Mocha
+1,37,Macchiato
+1,18,Espresso
+1,53,Flat White
+0,63,Flat White
+0,35,Cappuccino
+0,33,Macchiato
+0,55,Americano
+0,31,Mocha
+1,48,Latte
+0,23,Espresso
+1,27,Flat White
+0,26,Mocha
+1,55,Latte
+1,39,Flat White
+0,56,Cappuccino
+1,23,Espresso
+1,57,Latte
+1,61,Espresso
+1,51,Americano
+1,36,Macchiato
+0,48,Espresso
+0,29,Americano
+0,56,Mocha
+0,36,Americano
+0,31,Mocha
+1,54,Espresso
+1,45,Espresso
+1,15,Mocha
+0,59,Espresso
+1,26,Cappuccino
+0,26,Macchiato
+0,31,Macchiato
+1,53,Cappuccino
+0,46,Latte
+0,19,Cappuccino
+0,18,Macchiato
+0,30,Espresso
+1,60,Latte
+0,54,Cappuccino
+0,55,Mocha
+1,23,Latte
+1,44,Flat White
+0,30,Espresso
+1,33,Mocha
+1,56,Latte
+0,37,Flat White
+0,43,Flat White
+0,56,Cappuccino
+0,55,Cappuccino
+0,39,Latte
+1,29,Macchiato
+1,53,Flat White
+1,51,Macchiato
+0,41,Espresso
+0,28,Latte
+1,39,Latte
+1,28,Latte
+1,56,Flat White
+1,39,Latte
+1,15,Espresso
+0,34,Macchiato
+1,33,Americano
+1,46,Americano
+1,50,Espresso
+1,34,Cappuccino
+1,39,Mocha
+1,39,Mocha
+0,45,Mocha
+0,30,Americano
+0,22,Cappuccino
+1,49,Flat White
+1,31,Americano
+1,59,Macchiato
+1,26,Macchiato
+0,44,Espresso
+1,45,Macchiato
+1,16,Flat White
+0,37,Flat White
+0,27,Mocha
+1,50,Cappuccino
+0,57,Americano
+0,43,Flat White
+1,57,Latte
+0,44,Mocha
+0,51,Flat White
+1,48,Latte
+1,53,Macchiato
+1,60,Flat White
+1,61,Flat White
+1,47,Americano
+1,49,Flat White
+1,39,Americano
+1,33,Espresso
+1,16,Macchiato
+0,17,Cappuccino
+0,51,Americano
+1,45,Cappuccino
+1,57,Cappuccino
+1,50,Latte
+1,65,Cappuccino
+1,19,Mocha
+1,56,Flat White
+0,62,Macchiato
+0,23,Latte
+0,47,Espresso
+0,21,Americano
+0,28,Cappuccino
+0,41,Espresso
+0,21,Macchiato
+0,42,Mocha
+1,43,Cappuccino
+1,42,Americano
+0,26,Latte
+1,36,Latte
+1,42,Espresso
+0,39,Flat White
+1,25,Flat White
+0,47,Mocha
+0,33,Espresso
+0,21,Cappuccino
+1,30,Macchiato
+1,22,Flat White
+0,41,Latte
+0,39,Flat White
+1,56,Latte
+1,15,Cappuccino
+0,28,Flat White
+1,50,Mocha
+0,23,Macchiato
+0,55,Americano
+1,26,Mocha
+0,23,Mocha
+0,38,Espresso
+1,49,Espresso
+0,32,Mocha
+0,45,Americano
+0,35,Americano
+1,45,Flat White
+1,47,Flat White
+1,26,Macchiato
+1,40,Flat White
+0,39,Mocha
+0,37,Flat White
+0,41,Cappuccino
+1,48,Macchiato
+1,61,Espresso
+1,45,Cappuccino
+1,33,Mocha
+1,49,Flat White
+1,49,Espresso
+0,23,Espresso
+0,38,Mocha
+1,57,Mocha
+1,32,Cappuccino
+0,64,Americano
+1,31,Latte
+1,55,Americano
+0,47,Flat White
+1,61,Flat White
+1,23,Flat White
+1,29,Cappuccino
+1,42,Latte
+0,20,Macchiato
+1,38,Flat White
+0,23,Cappuccino
+0,60,Mocha
+0,16,Espresso
+1,24,Americano
+0,57,Espresso
+1,41,Cappuccino
+0,20,Latte
+1,23,Espresso
+0,57,Latte
+1,33,Mocha
+0,65,Espresso
+0,63,Macchiato
+1,51,Americano
+0,48,Americano
+1,65,Macchiato
+0,25,Mocha
+0,60,Macchiato
+0,29,Espresso
+1,43,Flat White
+0,20,Cappuccino
+0,62,Flat White
+0,28,Espresso
+1,51,Macchiato
+0,52,Latte
+1,50,Americano
+0,46,Americano
+0,39,Latte
+1,22,Americano
+0,55,Latte
+1,42,Cappuccino
+0,16,Flat White
+1,24,Espresso
+1,26,Espresso
+0,62,Mocha
+1,15,Mocha
+1,64,Flat White
+1,25,Mocha
+1,43,Espresso
+1,49,Flat White
+0,56,Latte
+0,63,Latte
+0,18,Latte
+0,18,Cappuccino
+1,51,Cappuccino
+0,64,Cappuccino
+0,31,Espresso
+0,24,Americano
+1,24,Flat White
+1,59,Americano
+0,53,Mocha
+0,64,Macchiato
+0,28,Americano
+1,52,Mocha
+0,58,Espresso
+1,46,Flat White
+1,24,Flat White
+0,18,Espresso
+1,37,Flat White
+1,21,Mocha
+1,29,Flat White
+1,44,Americano
+1,19,Latte
+1,64,Espresso
+1,19,Flat White
+0,63,Macchiato
+1,49,Cappuccino
+0,63,Cappuccino
+0,20,Espresso
+1,27,Cappuccino
+1,23,Americano
+1,62,Mocha
+1,20,Flat White
+1,45,Espresso
+0,35,Espresso
+1,51,Latte
+1,15,Americano
+1,51,Espresso
+0,39,Flat White
+1,46,Espresso
+0,29,Americano
+0,17,Flat White
+0,43,Americano
+1,48,Cappuccino
+1,61,Latte
+0,60,Flat White
+0,28,Macchiato
+1,53,Mocha
+0,38,Americano
+1,15,Latte
+1,49,Flat White
+0,58,Latte
+0,44,Espresso
+1,31,Flat White
+1,20,Latte
+0,65,Latte
+1,24,Latte
+0,36,Macchiato
+0,36,Mocha
+0,32,Macchiato
+0,42,Americano
+1,38,Latte
+0,15,Mocha
+0,60,Latte
+0,42,Americano
+1,26,Macchiato
+0,53,Latte
+0,42,Latte
+1,34,Americano
+0,57,Cappuccino
+1,41,Flat White
+1,26,Macchiato
+0,53,Latte
+0,23,Latte
+0,32,Flat White
+1,50,Macchiato
+1,49,Latte
+1,59,Americano
+1,37,Mocha
+1,54,Americano
+0,38,Latte
+0,30,Macchiato
+1,28,Cappuccino
+1,27,Americano
+1,48,Macchiato
+1,63,Mocha
+0,60,Mocha
+1,47,Mocha
+0,56,Americano
+1,57,Macchiato
+1,16,Cappuccino
+1,39,Macchiato
+1,35,Latte
+0,54,Latte
+0,42,Espresso
+1,58,Flat White
+0,62,Espresso
+0,43,Macchiato
+1,52,Macchiato
+0,32,Mocha
+0,19,Macchiato
+1,28,Latte
+0,17,Mocha
+0,59,Flat White
+0,54,Espresso
+0,25,Latte
+0,65,Latte
+0,52,Mocha
+1,28,Flat White
+1,55,Cappuccino
+0,29,Espresso
+0,59,Cappuccino
+0,52,Macchiato
+1,32,Espresso
+0,37,Cappuccino
+0,38,Mocha
+1,22,Americano
+1,53,Espresso
+1,53,Flat White
+1,29,Flat White
+1,42,Espresso
+0,37,Cappuccino
+1,17,Mocha
+1,24,Latte
+0,16,Espresso
+0,53,Latte
+0,46,Americano
+1,42,Latte
+1,27,Cappuccino
+1,34,Macchiato
+1,46,Flat White
+0,15,Americano
+1,24,Mocha
+1,28,Latte
+0,40,Latte
+1,56,Latte
+1,48,Espresso
+1,50,Americano
+1,32,Flat White
+0,55,Mocha
+0,20,Cappuccino
+1,28,Americano
+1,62,Cappuccino
+0,31,Macchiato
+1,18,Cappuccino
+0,50,Macchiato
+1,44,Mocha
+0,56,Flat White
+0,23,Cappuccino
+0,59,Mocha
+1,25,Flat White
+1,44,Mocha
+0,45,Flat White
+1,27,Espresso
+0,55,Macchiato
+1,60,Espresso
+0,35,Latte
+0,16,Flat White
+0,21,Cappuccino
+0,61,Cappuccino
+0,65,Cappuccino
+0,28,Latte
+1,43,Mocha
+1,53,Americano
+1,39,Macchiato
+1,59,Mocha
+0,36,Flat White
+0,33,Macchiato
+0,26,Latte
+1,38,Macchiato
+1,46,Espresso
+1,26,Espresso
+1,61,Latte
+1,62,Espresso
+1,59,Mocha
+1,58,Mocha
+0,38,Americano
+0,42,Mocha
+1,57,Flat White
+1,44,Americano
+1,15,Espresso
+1,30,Espresso
+1,35,Espresso
+1,39,Flat White
+0,31,Mocha
+1,35,Cappuccino
+1,61,Latte
+0,21,Cappuccino
+1,17,Americano
+0,17,Espresso
+1,24,Cappuccino
+0,37,Americano
+1,37,Mocha
+1,55,Flat White
+1,55,Espresso
+1,20,Macchiato
+1,18,Americano
+1,25,Macchiato
+1,40,Latte
+1,55,Cappuccino
+1,20,Espresso
+0,25,Flat White
+1,36,Cappuccino
+1,41,Latte
+1,23,Cappuccino
+1,52,Espresso
+1,26,Americano
+1,17,Americano
+1,16,Cappuccino
+1,54,Cappuccino
+0,42,Latte
+0,39,Flat White
+1,28,Macchiato
+0,24,Mocha
+1,24,Americano
+0,53,Mocha
+0,48,Americano
+0,46,Cappuccino
+0,17,Mocha
+0,44,Macchiato
+0,50,Cappuccino
+1,27,Americano
+1,50,Macchiato
+0,22,Mocha
+0,27,Espresso
+0,18,Espresso
+1,21,Macchiato
+1,56,Macchiato
+0,55,Mocha
+1,20,Flat White
+1,16,Flat White
+1,16,Latte
+0,29,Mocha
+1,62,Latte
+1,33,Cappuccino
+0,27,Espresso
+0,40,Americano
+1,44,Cappuccino
+1,27,Macchiato
+0,32,Flat White
+0,44,Mocha
+0,16,Macchiato
+1,27,Americano
+0,21,Macchiato
+1,59,Americano
+1,46,Americano
+0,58,Cappuccino
+0,63,Latte
+1,24,Latte
+0,32,Flat White
+0,26,Latte
+1,38,Mocha
+0,23,Cappuccino
+0,26,Cappuccino
+0,15,Macchiato
+1,54,Cappuccino
+0,50,Mocha
+0,65,Latte
+0,15,Mocha
+0,59,Mocha
+1,40,Macchiato
+1,27,Espresso
+0,46,Macchiato
+0,24,Latte
+1,15,Cappuccino
+0,48,Mocha
+0,58,Flat White
+1,61,Espresso
+1,16,Mocha
+0,47,Flat White
+0,46,Flat White
+0,28,Mocha
+1,55,Cappuccino
+0,35,Flat White
+1,23,Flat White
+0,33,Americano
+0,28,Macchiato
+1,52,Cappuccino
+0,42,Macchiato
+0,24,Espresso
+0,45,Americano
+0,36,Americano
+1,18,Cappuccino
+0,43,Americano
+0,24,Macchiato
+1,24,Macchiato
+0,60,Macchiato
+0,50,Mocha
+1,65,Latte
+1,46,Americano
+0,17,Macchiato
+0,36,Macchiato
+0,64,Americano
+1,56,Macchiato
+1,15,Cappuccino
+0,43,Flat White
+0,36,Macchiato
+1,47,Latte
+1,49,Espresso
+1,17,Americano
+0,58,Mocha
+0,21,Americano
+0,27,Americano
+1,53,Flat White
+0,16,Americano
+1,54,Macchiato
+0,38,Espresso
+0,47,Espresso
+0,18,Flat White
+1,25,Espresso
+0,28,Cappuccino
+1,37,Espresso
+0,40,Latte
+0,63,Espresso
+0,59,Flat White
+1,65,Flat White
+0,28,Cappuccino
+0,15,Flat White
+1,46,Latte
+1,59,Espresso
+0,16,Mocha
+1,56,Macchiato
+1,30,Latte
+0,38,Macchiato
+0,60,Flat White
+0,44,Americano
+1,29,Flat White
+1,57,Americano
+1,26,Flat White
+1,57,Latte
+0,35,Latte
+0,15,Latte
+0,35,Macchiato
+1,23,Americano
+0,26,Latte
+1,36,Macchiato
+1,59,Mocha
+0,22,Flat White
+1,60,Macchiato
+0,47,Mocha
+0,34,Flat White
+1,17,Flat White
+1,39,Americano
+0,27,Mocha
+0,56,Espresso
+0,33,Cappuccino
+0,57,Macchiato
+0,62,Latte
+0,17,Mocha
+0,17,Cappuccino
+0,34,Latte
+0,63,Macchiato
+0,26,Macchiato
+1,56,Cappuccino
+1,65,Mocha
+1,21,Macchiato
+0,65,Macchiato
+1,27,Latte
+1,36,Espresso
+0,21,Latte
+0,45,Macchiato
+0,31,Espresso
+0,23,Cappuccino
+1,23,Mocha
+1,25,Flat White
+0,56,Espresso
+0,41,Espresso
+1,54,Latte
+0,22,Flat White
+0,15,Americano
+0,55,Americano
+1,60,Mocha
+1,53,Macchiato
+1,40,Mocha
+0,58,Cappuccino
+0,44,Latte
+0,20,Mocha
+1,47,Latte
+1,48,Macchiato
+0,27,Macchiato
+0,57,Macchiato
+0,36,Latte
+1,58,Mocha
+0,48,Espresso
+1,15,Latte
+0,64,Flat White
+1,29,Americano
+0,34,Flat White
+0,41,Mocha
+1,28,Macchiato
+1,49,Mocha
+0,50,Americano
+1,30,Mocha
+0,25,Flat White
+0,39,Espresso
+0,37,Latte
+0,20,Flat White
+0,49,Cappuccino
+1,42,Latte
+0,50,Americano
+1,37,Mocha
+0,15,Mocha
+0,46,Americano
+0,49,Cappuccino
+0,41,Mocha
+1,65,Espresso
+1,42,Espresso
+0,45,Latte
+0,51,Latte
+1,29,Americano
+0,30,Latte
+1,26,Macchiato
+1,64,Flat White
+1,44,Cappuccino
+1,55,Mocha
+0,62,Americano
+1,50,Americano
+0,28,Cappuccino
+1,53,Flat White
+1,31,Macchiato
+1,60,Mocha
+0,50,Cappuccino
+0,28,Cappuccino
+0,62,Flat White
+1,49,Flat White
+0,33,Mocha
+0,57,Latte
+0,18,Espresso
+1,41,Mocha
+1,58,Americano
+1,57,Espresso
+1,37,Flat White
+1,43,Latte
+1,40,Espresso
+0,17,Macchiato
+0,16,Americano
+0,65,Mocha
+0,54,Mocha
+0,47,Latte
+1,28,Flat White
+0,20,Macchiato
+1,20,Flat White
+1,17,Mocha
+0,40,Flat White
+1,41,Latte
+1,24,Cappuccino
+1,47,Cappuccino
+0,50,Americano
+0,28,Flat White
+0,29,Mocha
+1,47,Espresso
+0,50,Flat White
+1,30,Espresso
+0,19,Mocha
+0,42,Flat White
+1,20,Cappuccino
+1,43,Latte
+0,63,Mocha
+0,36,Americano
+0,34,Cappuccino
+1,18,Macchiato
+0,27,Espresso
+1,43,Latte
+0,55,Mocha
+1,24,Espresso
+0,50,Latte
+0,39,Americano
+0,64,Cappuccino
+0,43,Latte
+1,49,Americano
+0,45,Latte
+0,64,Americano
+0,48,Americano
+0,61,Macchiato
+0,31,Flat White
+0,59,Cappuccino
+1,26,Latte
+1,15,Cappuccino
+0,30,Macchiato
+1,24,Cappuccino
+1,47,Americano
+0,34,Espresso
+0,15,Flat White
+1,48,Cappuccino
+1,45,Espresso
+1,41,Macchiato
+1,31,Americano
+1,43,Flat White
+0,58,Macchiato
+0,31,Americano
+0,26,Latte
+0,26,Macchiato
+0,44,Macchiato
+0,18,Macchiato
+1,33,Latte
+1,50,Macchiato
+1,59,Latte
+0,18,Macchiato
+1,32,Flat White
+1,45,Latte
+0,16,Latte
+0,30,Flat White
+1,25,Flat White
+0,19,Mocha
+1,31,Cappuccino
+1,48,Macchiato
+0,40,Macchiato
+0,46,Flat White
+0,63,Mocha
+0,53,Macchiato
+0,61,Cappuccino
+1,36,Flat White
+1,57,Americano
+1,15,Espresso
+1,23,Espresso
+0,47,Espresso
+0,17,Espresso
+0,58,Latte
+0,58,Espresso
+0,42,Macchiato
+0,43,Flat White
+1,43,Mocha
+1,24,Espresso
+1,16,Flat White
+0,35,Latte
+1,33,Macchiato
+0,59,Americano
+1,21,Cappuccino
+1,15,Latte
+1,39,Cappuccino
+1,32,Cappuccino
+0,20,Espresso
+1,29,Latte
+0,53,Americano
+0,16,Macchiato
+1,22,Mocha
+1,43,Mocha
+0,35,Latte
+1,61,Cappuccino
+0,64,Macchiato
+1,57,Cappuccino
+0,21,Americano
+0,43,Cappuccino
+1,31,Mocha
+1,18,Flat White
+1,32,Flat White
+0,58,Flat White
+1,49,Latte
+0,24,Macchiato
+0,26,Flat White
+0,42,Espresso
+1,64,Cappuccino
+0,29,Cappuccino
+0,31,Mocha
+1,27,Espresso
+1,38,Americano
+1,51,Cappuccino
+0,26,Macchiato
+0,55,Cappuccino
+1,52,Macchiato
+1,17,Espresso
+0,36,Flat White
+1,15,Americano
+1,61,Mocha
+0,59,Flat White
+1,58,Espresso
+1,56,Cappuccino
+1,63,Cappuccino
+0,28,Cappuccino
+0,53,Mocha
+1,33,Flat White
+1,20,Macchiato
+1,15,Latte
+1,30,Espresso
+1,22,Mocha
+0,59,Macchiato
+0,62,Espresso
+1,63,Americano
+1,56,Espresso
+0,32,Latte
+1,58,Espresso
+1,15,Flat White
+0,61,Espresso
+0,26,Cappuccino
+1,36,Americano
+0,35,Espresso
+1,43,Macchiato
+0,49,Espresso
+0,43,Latte
+0,46,Flat White
+1,37,Espresso
+0,15,Flat White
+0,52,Latte
+1,45,Flat White
+0,61,Americano
+1,27,Flat White
+1,24,Flat White
+0,45,Americano
+1,43,Latte
+1,20,Latte
+0,60,Cappuccino
+1,20,Americano
+0,64,Macchiato
+1,15,Macchiato
+1,65,Espresso
+1,37,Americano
+0,15,Macchiato
+0,54,Cappuccino
+1,49,Mocha
+0,42,Mocha
+1,19,Mocha
+0,45,Espresso
+0,23,Macchiato
+1,46,Macchiato
+1,22,Cappuccino
+1,26,Americano
+1,26,Cappuccino
+1,30,Flat White
+1,30,Cappuccino
+1,59,Cappuccino
+1,61,Americano
+0,58,Latte
+1,34,Flat White
+1,15,Macchiato
+0,20,Mocha
+1,40,Macchiato
+0,19,Mocha
+0,36,Macchiato
+0,24,Cappuccino
+1,53,Cappuccino
+0,59,Mocha
+0,65,Cappuccino
+0,61,Cappuccino
+0,47,Flat White
+1,37,Latte
+0,28,Latte
+1,16,Mocha
+0,36,Cappuccino
+1,17,Espresso
+0,62,Americano
+1,31,Flat White
+1,16,Macchiato
+0,50,Espresso
+1,46,Mocha
+0,18,Flat White
+1,39,Mocha
+1,16,Mocha
+1,37,Flat White
+1,52,Americano
+0,53,Cappuccino
+1,62,Flat White
+0,60,Espresso
+1,30,Latte
+0,28,Latte
+1,48,Macchiato
+1,60,Macchiato
+0,61,Mocha
+1,52,Mocha
+0,47,Latte
+0,24,Flat White
+1,62,Cappuccino
+1,48,Espresso
+0,27,Latte
+1,31,Cappuccino
+0,21,Americano
+1,46,Latte
+1,31,Latte
+1,20,Cappuccino
+0,37,Americano
+0,19,Flat White
+0,28,Latte
+0,24,Flat White
+1,23,Flat White
+0,20,Flat White
+1,27,Mocha
+1,52,Cappuccino
+0,37,Espresso
+1,45,Americano
+1,49,Macchiato
+0,60,Flat White
+1,26,Mocha
+1,53,Latte
+1,24,Flat White
+0,26,Latte
