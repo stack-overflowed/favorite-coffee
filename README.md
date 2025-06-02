@@ -3,7 +3,7 @@
 A simple Flask web app that predicts a person’s preferred type of coffee based on their **age** and **gender** using a Decision Tree Classifier.
 
 ## Some info
-The dataset is not real its a sythetic dataset made for the purpose of learning about **Decision Trees**. The accuracy is quite low due to the data being very limited.
+The dataset is not real its a synthetic data set made to learn about *Decision Trees*. The accuracy is quite low due to the data being very limited.
 
 ## How to run
 Install dependencies <br>
